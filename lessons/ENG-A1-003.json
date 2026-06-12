@@ -1,0 +1,26 @@
+{
+  "code": "ENG-A1-003",
+
+  "title": "My Name Is",
+
+  "level": "A1",
+
+  "theme": "Personal Information",
+
+  "communicationGoal": "Introduce Yourself",
+
+  "dependencies": [
+    "ENG-A1-002"
+  ],
+
+  "newVocabulary": [
+    "VOC-PERS-A1-001"
+  ],
+
+  "newPhrases": [
+    "PHR-INTRO-A1-001",
+    "PHR-INTRO-A1-002"
+  ],
+
+  "newGrammar": []
+}

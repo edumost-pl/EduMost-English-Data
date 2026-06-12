@@ -1,0 +1,32 @@
+[
+  {
+    "code": "VOC-NUM-A1-001",
+    "english": "one",
+    "polish": "jeden",
+    "ukrainian": "один"
+  },
+  {
+    "code": "VOC-NUM-A1-002",
+    "english": "two",
+    "polish": "dwa",
+    "ukrainian": "два"
+  },
+  {
+    "code": "VOC-NUM-A1-003",
+    "english": "three",
+    "polish": "trzy",
+    "ukrainian": "три"
+  },
+  {
+    "code": "VOC-NUM-A1-004",
+    "english": "four",
+    "polish": "cztery",
+    "ukrainian": "чотири"
+  },
+  {
+    "code": "VOC-NUM-A1-005",
+    "english": "five",
+    "polish": "pięć",
+    "ukrainian": "п'ять"
+  }
+]

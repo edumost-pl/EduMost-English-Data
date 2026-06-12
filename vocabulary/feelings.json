@@ -1,0 +1,14 @@
+[
+  {
+    "code": "VOC-FEEL-A1-001",
+    "english": "happy",
+    "polish": "szczęśliwy",
+    "ukrainian": "щасливий"
+  },
+  {
+    "code": "VOC-FEEL-A1-002",
+    "english": "sad",
+    "polish": "smutny",
+    "ukrainian": "сумний"
+  }
+]

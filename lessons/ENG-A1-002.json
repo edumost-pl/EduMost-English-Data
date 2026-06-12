@@ -1,0 +1,18 @@
+{
+  "code": "ENG-A1-002",
+  "title": "Hello!",
+
+  "newVocabulary": [
+    "VOC-GREET-A1-001",
+    "VOC-GREET-A1-002",
+    "VOC-GREET-A1-003"
+  ],
+
+  "newPhrases": [
+    "PHR-GREET-A1-001",
+    "PHR-GREET-A1-002",
+    "PHR-GREET-A1-003"
+  ],
+
+  "dependencies": []
+}

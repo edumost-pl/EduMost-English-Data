@@ -1,0 +1,20 @@
+[
+  {
+    "code": "PHR-FEEL-A1-001",
+    "english": "How are you?",
+    "polish": "Jak się masz?",
+    "ukrainian": "Як справи?"
+  },
+  {
+    "code": "PHR-FEEL-A1-002",
+    "english": "I am happy.",
+    "polish": "Jestem szczęśliwy/szczęśliwa.",
+    "ukrainian": "Я щасливий/щаслива."
+  },
+  {
+    "code": "PHR-FEEL-A1-003",
+    "english": "I am sad.",
+    "polish": "Jestem smutny/smutna.",
+    "ukrainian": "Я сумний/сумна."
+  }
+]

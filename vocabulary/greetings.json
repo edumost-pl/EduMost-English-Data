@@ -1,0 +1,20 @@
+[
+  {
+    "code": "VOC-GREET-A1-001",
+    "english": "hello",
+    "polish": "cześć",
+    "ukrainian": "привіт"
+  },
+  {
+    "code": "VOC-GREET-A1-002",
+    "english": "hi",
+    "polish": "hej",
+    "ukrainian": "привіт"
+  },
+  {
+    "code": "VOC-GREET-A1-003",
+    "english": "goodbye",
+    "polish": "do widzenia",
+    "ukrainian": "до побачення"
+  }
+]

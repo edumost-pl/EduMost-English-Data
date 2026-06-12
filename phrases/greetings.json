@@ -1,0 +1,20 @@
+[
+  {
+    "code": "PHR-GREET-A1-001",
+    "english": "Hello!",
+    "polish": "Cześć!",
+    "ukrainian": "Привіт!"
+  },
+  {
+    "code": "PHR-GREET-A1-002",
+    "english": "Hi!",
+    "polish": "Hej!",
+    "ukrainian": "Привіт!"
+  },
+  {
+    "code": "PHR-GREET-A1-003",
+    "english": "Goodbye!",
+    "polish": "Do widzenia!",
+    "ukrainian": "До побачення!"
+  }
+]

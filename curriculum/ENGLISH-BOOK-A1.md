@@ -1,0 +1,45 @@
+# English Book A1
+
+## Vocabulary
+
+### Greetings
+
+VOC-GREET-A1-001
+VOC-GREET-A1-002
+VOC-GREET-A1-003
+
+### Personal Information
+
+VOC-PERS-A1-001
+
+### Numbers
+
+VOC-NUM-A1-001
+VOC-NUM-A1-005
+
+### Feelings
+
+VOC-FEEL-A1-001
+VOC-FEEL-A1-002
+
+---
+
+## Phrase Book
+
+PHR-GREET-A1-001
+PHR-GREET-A1-002
+PHR-GREET-A1-003
+
+PHR-INTRO-A1-001
+PHR-INTRO-A1-002
+
+PHR-FEEL-A1-001
+PHR-FEEL-A1-002
+PHR-FEEL-A1-003
+
+---
+
+## Grammar
+
+GR-BE-A1-001
+GR-BE-A1-002

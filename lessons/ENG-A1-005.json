@@ -1,0 +1,30 @@
+{
+  "code": "ENG-A1-005",
+
+  "title": "How Are You?",
+
+  "level": "A1",
+
+  "theme": "Feelings",
+
+  "communicationGoal": "Talk About Feelings",
+
+  "dependencies": [
+    "ENG-A1-003"
+  ],
+
+  "newVocabulary": [
+    "VOC-FEEL-A1-001",
+    "VOC-FEEL-A1-002"
+  ],
+
+  "newPhrases": [
+    "PHR-FEEL-A1-001",
+    "PHR-FEEL-A1-002",
+    "PHR-FEEL-A1-003"
+  ],
+
+  "newGrammar": [
+    "GR-BE-A1-002"
+  ]
+}
