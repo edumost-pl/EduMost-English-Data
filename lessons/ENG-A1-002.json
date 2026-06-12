@@ -3,7 +3,8 @@
   "title": "Hello!",
    "visual":{
     "emoji":"👋",
-    "coverImage":"images/greetings.png"
+    "coverImage":"images/greetings.png", 
+    "backgroundImage": "images/greetings-bg.png"
   },
 
   "newVocabulary": [
