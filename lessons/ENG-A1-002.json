@@ -1,6 +1,10 @@
 {
   "code": "ENG-A1-002",
   "title": "Hello!",
+   "visual":{
+    "emoji":"👋",
+    "coverImage":"images/greetings.png"
+  },
 
   "newVocabulary": [
     "VOC-GREET-A1-001",
