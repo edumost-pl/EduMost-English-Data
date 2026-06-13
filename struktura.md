@@ -22,3 +22,9 @@ EduMost-English-Data/
 │       └── practice.html
 │
 └── curriculum/
+
+
+A1 → I am Tom.
+A2 → Yesterday I played football.
+B1 → I think football is important because...
+B2 → If more children played sports, they would be healthier.

@@ -1,11 +1,23 @@
 {
   "code": "ENG-A1-002",
-  "title": "🇬🇧 EduMost English",
-   "visual":{
+  "title": "🇬🇧 EduMost English <br> Meet a New Friend",
+  "visual":{
     "emoji":"👋",
     "coverImage":"images/greetings.png", 
     "backgroundImage": "images/greetings-bg.png"
   },
+
+  "vocabulary": [
+    "VOC-GREET-A1-001",
+    "VOC-GREET-A1-002",
+    "VOC-GREET-A1-003",
+    "VOC-GREET-A1-004"
+
+  ],
+  "phrases": [
+    "PHR-GREET-A1-001",
+    "PHR-GREET-A1-002"
+  ],
 
   "slides": [
     {

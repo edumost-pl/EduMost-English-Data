@@ -16,5 +16,23 @@
     "english": "goodbye",
     "polish": "do widzenia",
     "ukrainian": "до побачення"
+  },
+  {
+    "code": "VOC-GREET-A1-004",
+    "english": "My name",
+    "polish": "Mam na imię",
+    "ukrainian": "Моє ім'я"
+  },
+  {
+    "code": "VOC-GREET-A1-005",
+    "english": "goodbye",
+    "polish": "do widzenia",
+    "ukrainian": "до побачення"
+  },
+  {
+    "code": "VOC-GREET-A1-006",
+    "english": "goodbye",
+    "polish": "do widzenia",
+    "ukrainian": "до побачення"
   }
 ]
