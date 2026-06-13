@@ -3,7 +3,7 @@
     "code": "VOC-GREET-A1-001",
     "level": "A1",
     "category": "greetings",
-
+     "partOfSpeech": "interjection",
     "english": "hello",
     "ukrainian": "привіт",
     "polish": "cześć"
@@ -12,6 +12,7 @@
     "code": "VOC-GREET-A1-002",
     "level": "A1",
     "category": "greetings",
+     "partOfSpeech": "interjection",
     "english": "hi",
     "polish": "hej",
     "ukrainian": "привіт"
@@ -20,6 +21,7 @@
     "code": "VOC-GREET-A1-003",
     "level": "A1",
     "category": "greetings",
+     "partOfSpeech": "interjection",
     "english": "goodbye",
     "polish": "do widzenia",
     "ukrainian": "до побачення"
@@ -28,6 +30,7 @@
     "code": "VOC-GREET-A1-004",
     "level": "A1",
     "category": "greetings",
+     "partOfSpeech": "interjection",
     "english": "My name",
     "polish": "Mam na imię",
     "ukrainian": "Моє ім'я"

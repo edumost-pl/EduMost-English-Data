@@ -46,3 +46,13 @@ GR-BE-A1-001   A1     Grammar Basics   Verb to be    Дієслово to be     
 Code         Level  Unit         Title
 ---------------------------------------------
 ENG-A1-001   A1     Greetings    Hello!
+
+noun          существительное
+verb          глагол
+adjective     прилагательное
+adverb        наречие
+pronoun       местоимение
+numeral       числительное
+preposition   предлог
+conjunction   союз
+interjection  междометие

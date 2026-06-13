@@ -2,6 +2,7 @@ let allWords = [];
 let allPhrases = [];
 let allGrammar = [];
 let allLessons = [];
+let currentPartOfSpeech = "all";
 
 let allRecords = [];
 let currentType = "all";
@@ -11,21 +12,25 @@ let currentCategory = "all";
 const searchInput = document.getElementById("searchInput");
 
 searchInput.addEventListener("input", () => {
+  const query = searchInput.value.toLowerCase();
 
-    const query = searchInput.value.toLowerCase();
+  const filtered = allRecords.filter(
+    (item) =>
+      (item.english || "").toLowerCase().includes(query) ||
+      (item.ukrainian || "").toLowerCase().includes(query) ||
+      (item.polish || "").toLowerCase().includes(query) ||
+      (item.code || "").toLowerCase().includes(query),
+  );
 
-    const filtered = allRecords.filter(item =>
-
-        (item.english || "").toLowerCase().includes(query) ||
-        (item.ukrainian || "").toLowerCase().includes(query) ||
-        (item.polish || "").toLowerCase().includes(query) ||
-        (item.code || "").toLowerCase().includes(query)
-
-    );
-
-    renderTable(filtered);
-
+  renderTable(filtered);
 });
+
+// части речи
+function setPartOfSpeech(part) {
+  currentPartOfSpeech = part;
+
+  applyFilters();
+}
 
 // Функция загрузки слов
 async function loadVocabulary() {
@@ -85,61 +90,60 @@ loadDatabase();
 
 // allRecords
 function buildRecords() {
+  allRecords = [];
 
-allRecords = [];
-
-// WORDS
-allWords.forEach((item) => {
+  // WORDS
+  allWords.forEach((item) => {
     allRecords.push({
-        type: "Word",
-        code: item.code,
-        level: item.level,
-        category: item.category,
-        english: item.english,
-        ukrainian: item.ukrainian,
-        polish: item.polish,
+      type: "Word",
+      code: item.code,
+      level: item.level,
+      category: item.category,
+      partOfSpeech: item.partOfSpeech || "",
+      english: item.english,
+      ukrainian: item.ukrainian,
+      polish: item.polish,
     });
-});
+  });
 
-// PHRASES
-allPhrases.forEach((item) => {
+  // PHRASES
+  allPhrases.forEach((item) => {
     allRecords.push({
-        type: "Phrase",
-        code: item.code,
-        level: item.level,
-        category: item.category,
-        english: item.english,
-        ukrainian: item.ukrainian,
-        polish: item.polish,
+      type: "Phrase",
+      code: item.code,
+      level: item.level,
+      category: item.category,
+      english: item.english,
+      ukrainian: item.ukrainian,
+      polish: item.polish,
     });
-});
+  });
 
-// GRAMMAR
-allGrammar.forEach((item) => {
+  // GRAMMAR
+  allGrammar.forEach((item) => {
     allRecords.push({
-        type: "Grammar",
-        code: item.code,
-        level: item.level,
-        category: item.category,
-        english: item.english,
-        ukrainian: item.ukrainian,
-        polish: item.polish,
+      type: "Grammar",
+      code: item.code,
+      level: item.level,
+      category: item.category,
+      english: item.english,
+      ukrainian: item.ukrainian,
+      polish: item.polish,
     });
-});
+  });
 
-// LESSONS
-allLessons.forEach((item) => {
+  // LESSONS
+  allLessons.forEach((item) => {
     allRecords.push({
-        type: "Lesson",
-        code: item.code,
-        level: item.level,
-        category: item.category || item.unit || "",
-        english: item.title || item.english || "",
-        ukrainian: "",
-        polish: "",
+      type: "Lesson",
+      code: item.code,
+      level: item.level,
+      category: item.category || item.unit || "",
+      english: item.title || item.english || "",
+      ukrainian: "",
+      polish: "",
     });
-});
-
+  });
 }
 // Обновляем loadDatabase()
 async function loadDatabase() {
@@ -156,6 +160,8 @@ async function loadDatabase() {
 }
 //
 function renderTable(records) {
+  document.getElementById("recordCount").innerHTML =
+    `Showing: ${records.length} records`;
   const content = document.getElementById("content");
 
   content.innerHTML = `
@@ -213,25 +219,19 @@ function renderTable(records) {
 
 //
 function loadCategory(category) {
-
-if (category === "vocabulary") {
+  if (category === "vocabulary") {
     currentType = "Word";
-}
-else if (category === "phrases") {
+  } else if (category === "phrases") {
     currentType = "Phrase";
-}
-else if (category === "grammar") {
+  } else if (category === "grammar") {
     currentType = "Grammar";
-}
-else if (category === "lessons") {
+  } else if (category === "lessons") {
     currentType = "Lesson";
-}
-else {
+  } else {
     currentType = "all";
-}
+  }
 
-applyFilters();
-
+  applyFilters();
 }
 
 //  уровни
@@ -270,6 +270,13 @@ function applyFilters() {
   // CATEGORY
   if (currentCategory !== "all") {
     filtered = filtered.filter((item) => item.category === currentCategory);
+  }
+
+  // PART OF SPEECH
+  if (currentPartOfSpeech !== "all") {
+    filtered = filtered.filter(
+      (item) => item.partOfSpeech === currentPartOfSpeech,
+    );
   }
 
   renderTable(filtered);

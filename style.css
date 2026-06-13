@@ -73,3 +73,9 @@ box-shadow:
 .db-table tr:hover{
     background:#fafafa;
 }
+
+.record-count {
+    margin: 15px 0;
+    font-weight: bold;
+    font-size: 16px;
+}

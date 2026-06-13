@@ -14,6 +14,7 @@
 <body>
 
 
+
     <header>
 
         <h1>📚 EduMost English Database</h1>
@@ -21,6 +22,7 @@
         <input type="text" id="searchInput" placeholder="Search...">
 
     </header>
+    <div id="recordCount" class="record-count"></div>
 
     <nav>
         <button onclick="loadCategory('all')">
@@ -74,6 +76,29 @@
         <button onclick="setCategory('personal-info')">Personal Info</button>
 
     </nav>
+    <nav class="parts">
+
+    <button onclick="setPartOfSpeech('all')">All Parts</button>
+
+    <button onclick="setPartOfSpeech('noun')">Nouns</button>
+
+    <button onclick="setPartOfSpeech('verb')">Verbs</button>
+
+    <button onclick="setPartOfSpeech('adjective')">Adjectives</button>
+
+    <button onclick="setPartOfSpeech('adverb')">Adverbs</button>
+
+    <button onclick="setPartOfSpeech('pronoun')">Pronouns</button>
+
+    <button onclick="setPartOfSpeech('numeral')">Numerals</button>
+
+    <button onclick="setPartOfSpeech('preposition')">Prepositions</button>
+
+    <button onclick="setPartOfSpeech('conjunction')">Conjunctions</button>
+
+    <button onclick="setPartOfSpeech('interjection')">Interjections</button>
+
+</nav>
 
     <div id="content"></div>
 
