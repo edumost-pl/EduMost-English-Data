@@ -1,36 +1,49 @@
 [
   {
     "code": "VOC-GREET-A1-001",
+    "level": "A1",
+    "category": "greetings",
+
     "english": "hello",
-    "polish": "cześć",
-    "ukrainian": "привіт"
+    "ukrainian": "привіт",
+    "polish": "cześć"
   },
   {
     "code": "VOC-GREET-A1-002",
+    "level": "A1",
+    "category": "greetings",
     "english": "hi",
     "polish": "hej",
     "ukrainian": "привіт"
   },
   {
     "code": "VOC-GREET-A1-003",
+    "level": "A1",
+    "category": "greetings",
     "english": "goodbye",
     "polish": "do widzenia",
     "ukrainian": "до побачення"
   },
   {
     "code": "VOC-GREET-A1-004",
+    "level": "A1",
+    "category": "greetings",
     "english": "My name",
     "polish": "Mam na imię",
     "ukrainian": "Моє ім'я"
   },
   {
     "code": "VOC-GREET-A1-005",
+    "level": "A1",
+    "category": "greetings",
     "english": "goodbye",
     "polish": "do widzenia",
     "ukrainian": "до побачення"
   },
   {
     "code": "VOC-GREET-A1-006",
+    "level": "A1",
+    "category": "greetings",
     "english": "goodbye",
     "polish": "do widzenia",
     "ukrainian": "до побачення"

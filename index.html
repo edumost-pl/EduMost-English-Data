@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>EduMost English Database</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+
+    <header>
+
+        <h1>📚 EduMost English Database</h1>
+
+        <input type="text" id="searchInput" placeholder="Search...">
+
+    </header>
+
+    <nav>
+        <button onclick="loadCategory('all')">
+            All
+        </button>
+
+        <button onclick="loadCategory('vocabulary')">
+            Words
+        </button>
+
+        <button onclick="loadCategory('phrases')">
+            Phrases
+        </button>
+
+        <button onclick="loadCategory('lessons')">
+            Lessons
+        </button>
+
+        <button onclick="loadCategory('grammar')">
+            Grammar
+        </button>
+
+    </nav>
+
+    <nav class="levels">
+
+        <button onclick="loadLevel('all')">All Levels</button>
+
+        <button onclick="loadLevel('A1')">A1</button>
+
+        <button onclick="loadLevel('A2')">A2</button>
+
+        <button onclick="loadLevel('B1')">B1</button>
+
+        <button onclick="loadLevel('B2')">B2</button>
+
+        <button onclick="loadLevel('B2')">С1</button>
+
+    </nav>
+
+    <nav class="categories">
+
+        <button onclick="setCategory('all')">All Categories</button>
+
+        <button onclick="setCategory('greetings')">Greetings</button>
+
+        <button onclick="setCategory('numbers')">Numbers</button>
+
+        <button onclick="setCategory('feelings')">Feelings</button>
+
+        <button onclick="setCategory('personal-info')">Personal Info</button>
+
+    </nav>
+
+    <div id="content"></div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

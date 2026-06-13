@@ -1,18 +1,25 @@
 [
   {
     "code": "PHR-GREET-A1-001",
+    "level": "A1",
+    "category": "greetings",
+
     "english": "Hello!",
-    "polish": "Cześć!",
-    "ukrainian": "Привіт!"
+    "ukrainian": "Привіт!",
+    "polish": "Cześć!"
   },
   {
     "code": "PHR-GREET-A1-002",
+    "level": "A1",
+    "category": "greetings",
     "english": "Hi!",
     "polish": "Hej!",
     "ukrainian": "Привіт!"
   },
   {
     "code": "PHR-GREET-A1-003",
+    "level": "A1",
+    "category": "greetings",
     "english": "Goodbye!",
     "polish": "Do widzenia!",
     "ukrainian": "До побачення!"

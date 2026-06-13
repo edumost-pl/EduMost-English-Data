@@ -1,7 +1,12 @@
 [
   {
     "code": "GR-BE-A1-001",
-    "pattern": "My name is..."
+    "level": "A1",
+    "category": "Grammar Basics",
+
+    "english": "Verb to be",
+    "ukrainian": "Дієслово to be",
+    "polish": "Czasownik to be"
   },
   {
     "code": "GR-BE-A1-002",

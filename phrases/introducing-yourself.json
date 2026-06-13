@@ -1,12 +1,16 @@
 [
   {
     "code": "PHR-INTRO-A1-001",
+    "level": "A1",
+    "category": "introducing-yourself",
     "english": "My name is...",
     "polish": "Mam na imię...",
     "ukrainian": "Мене звати..."
   },
   {
     "code": "PHR-INTRO-A1-002",
+    "level": "A1",
+    "category": "introducing-yourself",
     "english": "What is your name?",
     "polish": "Jak masz na imię?",
     "ukrainian": "Як тебе звати?"

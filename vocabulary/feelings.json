@@ -1,12 +1,16 @@
 [
   {
     "code": "VOC-FEEL-A1-001",
+    "level": "A1",
+    "category": "feelings",
     "english": "happy",
     "polish": "szczęśliwy",
     "ukrainian": "щасливий"
   },
   {
     "code": "VOC-FEEL-A1-002",
+    "level": "A1",
+    "category": "feelings",
     "english": "sad",
     "polish": "smutny",
     "ukrainian": "сумний"

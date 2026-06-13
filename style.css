@@ -1,0 +1,75 @@
+body{
+font-family:Arial,sans-serif;
+margin:0;
+background:#f5f6fa;
+}
+
+header{
+padding:20px;
+background:#1f2937;
+color:white;
+}
+
+header h1{
+margin-bottom:10px;
+}
+
+#searchInput{
+width:100%;
+padding:12px;
+border-radius:10px;
+border:none;
+}
+
+nav{
+padding:15px;
+display:flex;
+gap:10px;
+flex-wrap:wrap;
+background:white;
+}
+
+nav button{
+padding:10px 15px;
+cursor:pointer;
+border:none;
+border-radius:10px;
+}
+
+#results{
+padding:20px;
+display:grid;
+grid-template-columns:
+repeat(auto-fill,minmax(280px,1fr));
+gap:15px;
+}
+
+.card{
+background:white;
+padding:15px;
+border-radius:15px;
+box-shadow:
+0 2px 8px rgba(0,0,0,.1);
+}
+/*  таблица */
+
+.db-table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+}
+
+.db-table th{
+    background:#f5f5f5;
+    padding:12px;
+    text-align:left;
+}
+
+.db-table td{
+    padding:12px;
+    border-top:1px solid #eee;
+}
+
+.db-table tr:hover{
+    background:#fafafa;
+}

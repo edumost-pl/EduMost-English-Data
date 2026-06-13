@@ -1,6 +1,8 @@
 [
   {
     "code": "VOC-PERS-A1-001",
+     "level": "A1",
+    "category": "personal-info",
     "english": "name",
     "polish": "imię",
     "ukrainian": "ім'я"

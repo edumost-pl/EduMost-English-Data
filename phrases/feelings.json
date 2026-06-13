@@ -1,18 +1,24 @@
 [
   {
     "code": "PHR-FEEL-A1-001",
+    "level": "A1",
+    "category": "Feelings",
     "english": "How are you?",
     "polish": "Jak się masz?",
     "ukrainian": "Як справи?"
   },
   {
     "code": "PHR-FEEL-A1-002",
+    "level": "A1",
+    "category": "feelings",
     "english": "I am happy.",
     "polish": "Jestem szczęśliwy/szczęśliwa.",
     "ukrainian": "Я щасливий/щаслива."
   },
   {
     "code": "PHR-FEEL-A1-003",
+    "level": "A1",
+    "category": "feelings",
     "english": "I am sad.",
     "polish": "Jestem smutny/smutna.",
     "ukrainian": "Я сумний/сумна."
