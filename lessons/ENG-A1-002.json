@@ -1,11 +1,44 @@
 {
   "code": "ENG-A1-002",
-  "title": "Hello!",
+  "title": "🇬🇧 EduMost English",
    "visual":{
     "emoji":"👋",
     "coverImage":"images/greetings.png", 
     "backgroundImage": "images/greetings-bg.png"
   },
+
+  "slides": [
+    {
+      "type": "cover"
+    },
+
+    {
+      "type": "html",
+      "id": "intro"
+    },
+
+    {
+      "type": "vocabulary"
+    },
+
+    {
+      "type": "html",
+      "id": "story"
+    },
+
+    {
+      "type": "phrases"
+    },
+
+    {
+      "type": "html",
+      "id": "practice"
+    },
+
+    {
+      "type": "summary"
+    }
+  ],
 
   "newVocabulary": [
     "VOC-GREET-A1-001",
