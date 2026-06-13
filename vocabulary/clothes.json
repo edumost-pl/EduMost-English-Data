@@ -1,0 +1,552 @@
+[
+{
+"code": "VOC-CLOTH-A1-0001",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "clothes",
+"polish": "ubrania",
+"ukrainian": "одяг",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0002",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "T-shirt",
+"polish": "koszulka",
+"ukrainian": "футболка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0003",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "shirt",
+"polish": "koszula",
+"ukrainian": "сорочка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0004",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "blouse",
+"polish": "bluzka",
+"ukrainian": "блузка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0005",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "sweater",
+"polish": "sweter",
+"ukrainian": "светр",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0006",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "hoodie",
+"polish": "bluza z kapturem",
+"ukrainian": "худі",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0007",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "jacket",
+"polish": "kurtka",
+"ukrainian": "куртка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0008",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "coat",
+"polish": "płaszcz",
+"ukrainian": "пальто",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0009",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "dress",
+"polish": "sukienka",
+"ukrainian": "сукня",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0010",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "skirt",
+"polish": "spódnica",
+"ukrainian": "спідниця",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0011",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "shorts",
+"polish": "szorty",
+"ukrainian": "шорти",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0012",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "trousers",
+"polish": "spodnie",
+"ukrainian": "штани",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0013",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "jeans",
+"polish": "dżinsy",
+"ukrainian": "джинси",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0014",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "leggings",
+"polish": "legginsy",
+"ukrainian": "легінси",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0015",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "pyjamas",
+"polish": "piżama",
+"ukrainian": "піжама",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0016",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "socks",
+"polish": "skarpetki",
+"ukrainian": "шкарпетки",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0017",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "tights",
+"polish": "rajstopy",
+"ukrainian": "колготки",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0018",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "underwear",
+"polish": "bielizna",
+"ukrainian": "білизна",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0019",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "hat",
+"polish": "czapka",
+"ukrainian": "шапка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0020",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "cap",
+"polish": "czapka z daszkiem",
+"ukrainian": "кепка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0021",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "scarf",
+"polish": "szalik",
+"ukrainian": "шарф",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0022",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "gloves",
+"polish": "rękawiczki",
+"ukrainian": "рукавички",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0023",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "boots",
+"polish": "buty zimowe",
+"ukrainian": "чоботи",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0024",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "shoes",
+"polish": "buty",
+"ukrainian": "взуття",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0025",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "trainers",
+"polish": "trampki",
+"ukrainian": "кросівки",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0026",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "sandals",
+"polish": "sandały",
+"ukrainian": "сандалі",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0027",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "slippers",
+"polish": "kapcie",
+"ukrainian": "капці",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0028",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "raincoat",
+"polish": "płaszcz przeciwdeszczowy",
+"ukrainian": "дощовик",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0029",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "belt",
+"polish": "pasek",
+"ukrainian": "ремінь",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0030",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "tie",
+"polish": "krawat",
+"ukrainian": "краватка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0031",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "bow tie",
+"polish": "muszka",
+"ukrainian": "метелик",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0032",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "pocket",
+"polish": "kieszeń",
+"ukrainian": "кишеня",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0033",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "button",
+"polish": "guzik",
+"ukrainian": "ґудзик",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0034",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "zipper",
+"polish": "zamek błyskawiczny",
+"ukrainian": "блискавка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0035",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "uniform",
+"polish": "mundurek",
+"ukrainian": "форма",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0036",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "school uniform",
+"polish": "mundurek szkolny",
+"ukrainian": "шкільна форма",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0037",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "backpack",
+"polish": "plecak",
+"ukrainian": "рюкзак",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0038",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "handbag",
+"polish": "torebka",
+"ukrainian": "сумочка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0039",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "watch",
+"polish": "zegarek",
+"ukrainian": "годинник",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0040",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "sunglasses",
+"polish": "okulary przeciwsłoneczne",
+"ukrainian": "сонцезахисні окуляри",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0041",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "ring",
+"polish": "pierścionek",
+"ukrainian": "каблучка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0042",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "necklace",
+"polish": "naszyjnik",
+"ukrainian": "намисто",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0043",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "bracelet",
+"polish": "bransoletka",
+"ukrainian": "браслет",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0044",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "earrings",
+"polish": "kolczyki",
+"ukrainian": "сережки",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0045",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "umbrella",
+"polish": "parasol",
+"ukrainian": "парасоля",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0046",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "winter jacket",
+"polish": "kurtka zimowa",
+"ukrainian": "зимова куртка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0047",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "swimsuit",
+"polish": "strój kąpielowy",
+"ukrainian": "купальник",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0048",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "tracksuit",
+"polish": "dres",
+"ukrainian": "спортивний костюм",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0049",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "sports shoes",
+"polish": "buty sportowe",
+"ukrainian": "спортивне взуття",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0050",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "clothes shop",
+"polish": "sklep odzieżowy",
+"ukrainian": "магазин одягу",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0051",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "glasses",
+"polish": "okulary",
+"ukrainian": "окуляри",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0052",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "school bag",
+"polish": "torba szkolna",
+"ukrainian": "шкільна сумка",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0053",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "rubber boots",
+"polish": "kalosze",
+"ukrainian": "гумові чоботи",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0054",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "helmet",
+"polish": "kask",
+"ukrainian": "шолом",
+"status": "not-learned"
+},
+{
+"code": "VOC-CLOTH-A1-0055",
+"level": "A1",
+"category": "clothes",
+"partOfSpeech": "noun",
+"english": "apron",
+"polish": "fartuch",
+"ukrainian": "фартух",
+"status": "not-learned"
+}
+]

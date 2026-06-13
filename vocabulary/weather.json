@@ -1,0 +1,284 @@
+[
+{
+"code": "VOC-WEATHER-A1-0001",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "weather",
+"polish": "pogoda",
+"ukrainian": "погода",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0002",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "sun",
+"polish": "słońce",
+"ukrainian": "сонце",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0003",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "sky",
+"polish": "niebo",
+"ukrainian": "небо",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0004",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "cloud",
+"polish": "chmura",
+"ukrainian": "хмара",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0005",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "rain",
+"polish": "deszcz",
+"ukrainian": "дощ",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0006",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "snow",
+"polish": "śnieg",
+"ukrainian": "сніг",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0007",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "wind",
+"polish": "wiatr",
+"ukrainian": "вітер",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0008",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "storm",
+"polish": "burza",
+"ukrainian": "буря",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0009",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "fog",
+"polish": "mgła",
+"ukrainian": "туман",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0010",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "rainbow",
+"polish": "tęcza",
+"ukrainian": "веселка",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0011",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "sunny",
+"polish": "słoneczny",
+"ukrainian": "сонячний",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0012",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "rainy",
+"polish": "deszczowy",
+"ukrainian": "дощовий",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0013",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "snowy",
+"polish": "śnieżny",
+"ukrainian": "сніжний",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0014",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "windy",
+"polish": "wietrzny",
+"ukrainian": "вітряний",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0015",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "cloudy",
+"polish": "pochmurny",
+"ukrainian": "хмарний",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0016",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "foggy",
+"polish": "mglisty",
+"ukrainian": "туманний",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0017",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "stormy",
+"polish": "burzowy",
+"ukrainian": "бурхливий",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0018",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "hot",
+"polish": "gorący",
+"ukrainian": "спекотний",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0019",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "warm",
+"polish": "ciepły",
+"ukrainian": "теплий",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0020",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "cool",
+"polish": "chłodny",
+"ukrainian": "прохолодний",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0021",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "cold",
+"polish": "zimny",
+"ukrainian": "холодний",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0022",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "wet",
+"polish": "mokry",
+"ukrainian": "мокрий",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0023",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "adjective",
+"english": "dry",
+"polish": "suchy",
+"ukrainian": "сухий",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0024",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "temperature",
+"polish": "temperatura",
+"ukrainian": "температура",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0025",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "degree",
+"polish": "stopień",
+"ukrainian": "градус",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0026",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "sunshine",
+"polish": "słońce",
+"ukrainian": "сонячне світло",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0027",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "raindrop",
+"polish": "kropla deszczu",
+"ukrainian": "крапля дощу",
+"status": "not-learned"
+},
+{
+"code": "VOC-WEATHER-A1-0028",
+"level": "A1",
+"category": "weather",
+"partOfSpeech": "noun",
+"english": "snowflake",
+"polish": "płatek śniegu",
+"ukrainian": "сніжинка",
+"status": "not-learned"
+}
+]
+
+

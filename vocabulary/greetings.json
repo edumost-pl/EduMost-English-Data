@@ -1,54 +1,92 @@
 [
   {
-    "code": "VOC-GREET-A1-001",
+    "code": "VOC-GREET-A1-0001",
     "level": "A1",
     "category": "greetings",
-     "partOfSpeech": "interjection",
+    "partOfSpeech": "interjection",
     "english": "hello",
     "ukrainian": "привіт",
     "polish": "cześć"
   },
   {
-    "code": "VOC-GREET-A1-002",
+    "code": "VOC-GREET-A1-0002",
     "level": "A1",
     "category": "greetings",
-     "partOfSpeech": "interjection",
+    "partOfSpeech": "interjection",
     "english": "hi",
     "polish": "hej",
     "ukrainian": "привіт"
   },
   {
-    "code": "VOC-GREET-A1-003",
+    "code": "VOC-GREET-A1-0003",
     "level": "A1",
     "category": "greetings",
-     "partOfSpeech": "interjection",
+    "partOfSpeech": "interjection",
     "english": "goodbye",
     "polish": "do widzenia",
     "ukrainian": "до побачення"
   },
   {
-    "code": "VOC-GREET-A1-004",
+    "code": "VOC-GREET-A1-0004",
     "level": "A1",
     "category": "greetings",
-     "partOfSpeech": "interjection",
-    "english": "My name",
-    "polish": "Mam na imię",
-    "ukrainian": "Моє ім'я"
+    "partOfSpeech": "interjection",
+    "english": "good morning",
+    "polish": "dzień dobry",
+    "ukrainian": "доброго ранку"
   },
   {
-    "code": "VOC-GREET-A1-005",
+    "code": "VOC-GREET-A1-0005",
     "level": "A1",
     "category": "greetings",
-    "english": "goodbye",
-    "polish": "do widzenia",
-    "ukrainian": "до побачення"
+    "partOfSpeech": "interjection",
+    "english": "good afternoon",
+    "polish": "dzień dobry",
+    "ukrainian": "добрий день"
   },
   {
-    "code": "VOC-GREET-A1-006",
+    "code": "VOC-GREET-A1-0006",
     "level": "A1",
     "category": "greetings",
-    "english": "goodbye",
-    "polish": "do widzenia",
-    "ukrainian": "до побачення"
+    "partOfSpeech": "interjection",
+    "english": "good evening",
+    "polish": "dobry wieczór",
+    "ukrainian": "добрий вечір"
+  },
+  {
+    "code": "VOC-GREET-A1-0007",
+    "level": "A1",
+    "category": "greetings",
+    "partOfSpeech": "interjection",
+    "english": "good night",
+    "polish": "dobranoc",
+    "ukrainian": "на добраніч"
+  },
+  {
+    "code": "VOC-GREET-A1-0008",
+    "level": "A1",
+    "category": "greetings",
+    "partOfSpeech": "interjection",
+    "english": "welcome",
+    "polish": "witamy",
+    "ukrainian": "ласкаво просимо"
+  },
+  {
+    "code": "VOC-GREET-A1-0009",
+    "level": "A1",
+    "category": "greetings",
+    "partOfSpeech": "interjection",
+    "english": "see you",
+    "polish": "do zobaczenia",
+    "ukrainian": "до зустрічі"
+  },
+  {
+    "code": "VOC-GREET-A1-0010",
+    "level": "A1",
+    "category": "greetings",
+    "partOfSpeech": "interjection",
+    "english": "bye",
+    "polish": "pa",
+    "ukrainian": "бувай"
   }
 ]

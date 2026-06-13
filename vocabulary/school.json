@@ -1,0 +1,218 @@
+[
+{
+"code": "VOC-SCHOOL-A1-0001",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "school",
+"polish": "szkoła",
+"ukrainian": "школа"
+},
+{
+"code": "VOC-SCHOOL-A1-0002",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "class",
+"polish": "klasa",
+"ukrainian": "клас"
+},
+{
+"code": "VOC-SCHOOL-A1-0003",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "classroom",
+"polish": "sala lekcyjna",
+"ukrainian": "класна кімната"
+},
+{
+"code": "VOC-SCHOOL-A1-0004",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "teacher",
+"polish": "nauczyciel",
+"ukrainian": "вчитель"
+},
+{
+"code": "VOC-SCHOOL-A1-0005",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "student",
+"polish": "uczeń",
+"ukrainian": "учень"
+},
+{
+"code": "VOC-SCHOOL-A1-0006",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "pupil",
+"polish": "uczeń",
+"ukrainian": "учень"
+},
+{
+"code": "VOC-SCHOOL-A1-0007",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "friend",
+"polish": "kolega",
+"ukrainian": "друг"
+},
+{
+"code": "VOC-SCHOOL-A1-0008",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "classmate",
+"polish": "kolega z klasy",
+"ukrainian": "однокласник"
+},
+{
+"code": "VOC-SCHOOL-A1-0009",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "lesson",
+"polish": "lekcja",
+"ukrainian": "урок"
+},
+{
+"code": "VOC-SCHOOL-A1-0010",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "homework",
+"polish": "praca domowa",
+"ukrainian": "домашнє завдання"
+},
+{
+"code": "VOC-SCHOOL-A1-0011",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "subject",
+"polish": "przedmiot",
+"ukrainian": "предмет"
+},
+{
+"code": "VOC-SCHOOL-A1-0012",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "break",
+"polish": "przerwa",
+"ukrainian": "перерва"
+},
+{
+"code": "VOC-SCHOOL-A1-0013",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "test",
+"polish": "test",
+"ukrainian": "тест"
+},
+{
+"code": "VOC-SCHOOL-A1-0014",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "grade",
+"polish": "ocena",
+"ukrainian": "оцінка"
+},
+{
+"code": "VOC-SCHOOL-A1-0015",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "schedule",
+"polish": "plan lekcji",
+"ukrainian": "розклад уроків"
+},
+{
+"code": "VOC-SCHOOL-A1-0016",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "English",
+"polish": "angielski",
+"ukrainian": "англійська мова"
+},
+{
+"code": "VOC-SCHOOL-A1-0017",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "Polish",
+"polish": "polski",
+"ukrainian": "польська мова"
+},
+{
+"code": "VOC-SCHOOL-A1-0018",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "Ukrainian",
+"polish": "ukraiński",
+"ukrainian": "українська мова"
+},
+{
+"code": "VOC-SCHOOL-A1-0019",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "math",
+"polish": "matematyka",
+"ukrainian": "математика"
+},
+{
+"code": "VOC-SCHOOL-A1-0020",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "science",
+"polish": "przyroda",
+"ukrainian": "природознавство"
+},
+{
+"code": "VOC-SCHOOL-A1-0021",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "music",
+"polish": "muzyka",
+"ukrainian": "музика"
+},
+{
+"code": "VOC-SCHOOL-A1-0022",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "art",
+"polish": "plastyka",
+"ukrainian": "образотворче мистецтво"
+},
+{
+"code": "VOC-SCHOOL-A1-0023",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "computer science",
+"polish": "informatyka",
+"ukrainian": "інформатика"
+},
+{
+"code": "VOC-SCHOOL-A1-0024",
+"level": "A1",
+"category": "school",
+"partOfSpeech": "noun",
+"english": "physical education",
+"polish": "wychowanie fizyczne",
+"ukrainian": "фізкультура"
+}
+]

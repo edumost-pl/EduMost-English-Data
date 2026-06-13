@@ -1,27 +1,58 @@
 [
   {
-    "code": "PHR-GREET-A1-001",
+    "code": "PHR-GREET-A1-0001",
     "level": "A1",
     "category": "greetings",
-
     "english": "Hello!",
-    "ukrainian": "Привіт!",
-    "polish": "Cześć!"
-  },
-  {
-    "code": "PHR-GREET-A1-002",
-    "level": "A1",
-    "category": "greetings",
-    "english": "Hi!",
-    "polish": "Hej!",
+    "polish": "Cześć!",
     "ukrainian": "Привіт!"
   },
   {
-    "code": "PHR-GREET-A1-003",
+    "code": "PHR-GREET-A1-0002",
     "level": "A1",
     "category": "greetings",
-    "english": "Goodbye!",
-    "polish": "Do widzenia!",
-    "ukrainian": "До побачення!"
+    "english": "Good morning!",
+    "polish": "Dzień dobry!",
+    "ukrainian": "Доброго ранку!"
+  },
+  {
+    "code": "PHR-GREET-A1-0003",
+    "level": "A1",
+    "category": "greetings",
+    "english": "Good evening!",
+    "polish": "Dobry wieczór!",
+    "ukrainian": "Добрий вечір!"
+  },
+  {
+    "code": "PHR-GREET-A1-0004",
+    "level": "A1",
+    "category": "greetings",
+    "english": "How are you?",
+    "polish": "Jak się masz?",
+    "ukrainian": "Як справи?"
+  },
+  {
+    "code": "PHR-GREET-A1-0005",
+    "level": "A1",
+    "category": "greetings",
+    "english": "I am fine.",
+    "polish": "Mam się dobrze.",
+    "ukrainian": "У мене все добре."
+  },
+  {
+    "code": "PHR-GREET-A1-0006",
+    "level": "A1",
+    "category": "greetings",
+    "english": "Nice to meet you.",
+    "polish": "Miło cię poznać.",
+    "ukrainian": "Приємно познайомитися."
+  },
+  {
+    "code": "PHR-GREET-A1-0007",
+    "level": "A1",
+    "category": "greetings",
+    "english": "See you later.",
+    "polish": "Do zobaczenia później.",
+    "ukrainian": "Побачимося пізніше."
   }
 ]

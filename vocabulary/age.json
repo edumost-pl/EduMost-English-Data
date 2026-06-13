@@ -1,0 +1,139 @@
+[
+{
+"code": "VOC-AGE-A1-0001",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "noun",
+"english": "age",
+"polish": "wiek",
+"ukrainian": "вік"
+},
+{
+"code": "VOC-AGE-A1-0002",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "noun",
+"english": "birthday",
+"polish": "urodziny",
+"ukrainian": "день народження"
+},
+{
+"code": "VOC-AGE-A1-0003",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "noun",
+"english": "year",
+"polish": "rok",
+"ukrainian": "рік"
+},
+{
+"code": "VOC-AGE-A1-0004",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "noun",
+"english": "month",
+"polish": "miesiąc",
+"ukrainian": "місяць"
+},
+{
+"code": "VOC-AGE-A1-0005",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "noun",
+"english": "day",
+"polish": "dzień",
+"ukrainian": "день"
+},
+{
+"code": "VOC-AGE-A1-0006",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "adjective",
+"english": "young",
+"polish": "młody",
+"ukrainian": "молодий"
+},
+{
+"code": "VOC-AGE-A1-0007",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "adjective",
+"english": "old",
+"polish": "stary",
+"ukrainian": "старий"
+},
+{
+"code": "VOC-AGE-A1-0008",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "verb",
+"english": "be",
+"polish": "być",
+"ukrainian": "бути"
+},
+{
+"code": "VOC-AGE-A1-0009",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "verb",
+"english": "turn",
+"polish": "skończyć",
+"ukrainian": "виповнюватися"
+},
+{
+"code": "VOC-AGE-A1-0010",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "verb",
+"english": "celebrate",
+"polish": "świętować",
+"ukrainian": "святкувати"
+},
+{
+"code": "VOC-AGE-A1-0011",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "numeral",
+"english": "first",
+"polish": "pierwszy",
+"ukrainian": "перший"
+},
+{
+"code": "VOC-AGE-A1-0012",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "numeral",
+"english": "second",
+"polish": "drugi",
+"ukrainian": "другий"
+},
+{
+"code": "VOC-AGE-A1-0013",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "numeral",
+"english": "third",
+"polish": "trzeci",
+"ukrainian": "третій"
+},
+{
+"code": "VOC-AGE-A1-0014",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "numeral",
+"english": "tenth",
+"polish": "dziesiąty",
+"ukrainian": "десятий"
+},
+{
+"code": "VOC-AGE-A1-0015",
+"level": "A1",
+"category": "age",
+"partOfSpeech": "adjective",
+"english": "happy",
+"polish": "szczęśliwy",
+"ukrainian": "щасливий"
+}
+]
+
+

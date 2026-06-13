@@ -1,0 +1,172 @@
+[
+{
+"code": "PHR-ROOM-A1-0001",
+"level": "A1",
+"category": "rooms",
+"english": "This is my room.",
+"polish": "To jest mój pokój.",
+"ukrainian": "Це моя кімната.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROOM-A1-0002",
+"level": "A1",
+"category": "rooms",
+"english": "My room is big.",
+"polish": "Mój pokój jest duży.",
+"ukrainian": "Моя кімната велика.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROOM-A1-0003",
+"level": "A1",
+"category": "rooms",
+"english": "My room is small.",
+"polish": "Mój pokój jest mały.",
+"ukrainian": "Моя кімната маленька.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROOM-A1-0004",
+"level": "A1",
+"category": "rooms",
+"english": "I am in my room.",
+"polish": "Jestem w swoim pokoju.",
+"ukrainian": "Я у своїй кімнаті.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROOM-A1-0005",
+"level": "A1",
+"category": "rooms",
+"english": "My bedroom is upstairs.",
+"polish": "Moja sypialnia jest na górze.",
+"ukrainian": "Моя спальня нагорі.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROOM-A1-0006",
+"level": "A1",
+"category": "rooms",
+"english": "The kitchen is downstairs.",
+"polish": "Kuchnia jest na dole.",
+"ukrainian": "Кухня внизу.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROOM-A1-0007",
+"level": "A1",
+"category": "rooms",
+"english": "We eat in the dining room.",
+"polish": "Jemy w jadalni.",
+"ukrainian": "Ми їмо в їдальні.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROOM-A1-0008",
+"level": "A1",
+"category": "rooms",
+"english": "I sleep in my bedroom.",
+"polish": "Śpię w swojej sypialni.",
+"ukrainian": "Я сплю у своїй спальні.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROOM-A1-0009",
+"level": "A1",
+"category": "rooms",
+"english": "We watch TV in the living room.",
+"polish": "Oglądamy telewizję w salonie.",
+"ukrainian": "Ми дивимося телевізор у вітальні.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROOM-A1-0010",
+"level": "A1",
+"category": "rooms",
+"english": "I wash my hands in the bathroom.",
+"polish": "Myję ręce w łazience.",
+"ukrainian": "Я мию руки у ванній кімнаті.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROOM-A1-0011",
+"english": "The toilet is next to the bathroom."
+},
+{
+"code": "PHR-ROOM-A1-0012",
+"english": "The hall is near the entrance."
+},
+{
+"code": "PHR-ROOM-A1-0013",
+"english": "Walk through the corridor."
+},
+{
+"code": "PHR-ROOM-A1-0014",
+"english": "My toys are in the playroom."
+},
+{
+"code": "PHR-ROOM-A1-0015",
+"english": "The guest room is empty."
+},
+{
+"code": "PHR-ROOM-A1-0016",
+"english": "My dad works in the study."
+},
+{
+"code": "PHR-ROOM-A1-0017",
+"english": "The attic is above the house."
+},
+{
+"code": "PHR-ROOM-A1-0018",
+"english": "The basement is under the house."
+},
+{
+"code": "PHR-ROOM-A1-0019",
+"english": "The laundry room is downstairs."
+},
+{
+"code": "PHR-ROOM-A1-0020",
+"english": "Come inside."
+},
+{
+"code": "PHR-ROOM-A1-0021",
+"english": "Go outside."
+},
+{
+"code": "PHR-ROOM-A1-0022",
+"english": "Stand in the corner."
+},
+{
+"code": "PHR-ROOM-A1-0023",
+"english": "Look at the ceiling."
+},
+{
+"code": "PHR-ROOM-A1-0024",
+"english": "The doorway is open."
+},
+{
+"code": "PHR-ROOM-A1-0025",
+"english": "We live on the first storey."
+},
+{
+"code": "PHR-ROOM-A1-0026",
+"english": "My room is clean."
+},
+{
+"code": "PHR-ROOM-A1-0027",
+"english": "Your room is nice."
+},
+{
+"code": "PHR-ROOM-A1-0028",
+"english": "Welcome to my room."
+},
+{
+"code": "PHR-ROOM-A1-0029",
+"english": "I like my bedroom."
+},
+{
+"code": "PHR-ROOM-A1-0030",
+"english": "Our house has many rooms."
+}
+]

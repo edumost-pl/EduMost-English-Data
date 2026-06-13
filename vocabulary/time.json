@@ -1,0 +1,122 @@
+[
+{
+"code": "VOC-TIME-A1-0001",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "noun",
+"english": "time",
+"polish": "czas",
+"ukrainian": "час",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0002",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "noun",
+"english": "clock",
+"polish": "zegar",
+"ukrainian": "годинник",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0003",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "noun",
+"english": "hour",
+"polish": "godzina",
+"ukrainian": "година",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0004",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "noun",
+"english": "minute",
+"polish": "minuta",
+"ukrainian": "хвилина",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0005",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "expression",
+"english": "o'clock",
+"polish": "godzina",
+"ukrainian": "година",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0006",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "noun",
+"english": "morning",
+"polish": "rano",
+"ukrainian": "ранок",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0007",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "noun",
+"english": "afternoon",
+"polish": "popołudnie",
+"ukrainian": "післяобідній час",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0008",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "noun",
+"english": "evening",
+"polish": "wieczór",
+"ukrainian": "вечір",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0009",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "noun",
+"english": "night",
+"polish": "noc",
+"ukrainian": "ніч",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0010",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "adverb",
+"english": "today",
+"polish": "dzisiaj",
+"ukrainian": "сьогодні",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0011",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "adverb",
+"english": "tomorrow",
+"polish": "jutro",
+"ukrainian": "завтра",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0012",
+"level": "A1",
+"category": "time",
+"partOfSpeech": "adverb",
+"english": "yesterday",
+"polish": "wczoraj",
+"ukrainian": "вчора",
+"status": "not-learned"
+}
+]

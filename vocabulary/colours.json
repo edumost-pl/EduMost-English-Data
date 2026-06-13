@@ -1,0 +1,137 @@
+[
+{
+"code": "VOC-COLOR-A1-0001",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "red",
+"polish": "czerwony",
+"ukrainian": "червоний"
+},
+{
+"code": "VOC-COLOR-A1-0002",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "blue",
+"polish": "niebieski",
+"ukrainian": "синій"
+},
+{
+"code": "VOC-COLOR-A1-0003",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "green",
+"polish": "zielony",
+"ukrainian": "зелений"
+},
+{
+"code": "VOC-COLOR-A1-0004",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "yellow",
+"polish": "żółty",
+"ukrainian": "жовтий"
+},
+{
+"code": "VOC-COLOR-A1-0005",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "orange",
+"polish": "pomarańczowy",
+"ukrainian": "помаранчевий"
+},
+{
+"code": "VOC-COLOR-A1-0006",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "purple",
+"polish": "fioletowy",
+"ukrainian": "фіолетовий"
+},
+{
+"code": "VOC-COLOR-A1-0007",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "pink",
+"polish": "różowy",
+"ukrainian": "рожевий"
+},
+{
+"code": "VOC-COLOR-A1-0008",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "brown",
+"polish": "brązowy",
+"ukrainian": "коричневий"
+},
+{
+"code": "VOC-COLOR-A1-0009",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "black",
+"polish": "czarny",
+"ukrainian": "чорний"
+},
+{
+"code": "VOC-COLOR-A1-0010",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "white",
+"polish": "biały",
+"ukrainian": "білий"
+},
+{
+"code": "VOC-COLOR-A1-0011",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "grey",
+"polish": "szary",
+"ukrainian": "сірий"
+},
+{
+"code": "VOC-COLOR-A1-0012",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "gold",
+"polish": "złoty",
+"ukrainian": "золотий"
+},
+{
+"code": "VOC-COLOR-A1-0013",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "silver",
+"polish": "srebrny",
+"ukrainian": "срібний"
+},
+{
+"code": "VOC-COLOR-A1-0014",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "light",
+"polish": "jasny",
+"ukrainian": "світлий"
+},
+{
+"code": "VOC-COLOR-A1-0015",
+"level": "A1",
+"category": "colours",
+"partOfSpeech": "adjective",
+"english": "dark",
+"polish": "ciemny",
+"ukrainian": "темний"
+}
+]

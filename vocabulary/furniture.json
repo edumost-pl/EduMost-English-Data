@@ -1,0 +1,303 @@
+[
+{
+"code": "VOC-FURN-A1-0001",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "furniture",
+"polish": "meble",
+"ukrainian": "меблі",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0002",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "bed",
+"polish": "łóżko",
+"ukrainian": "ліжко",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0003",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "table",
+"polish": "stół",
+"ukrainian": "стіл",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0004",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "chair",
+"polish": "krzesło",
+"ukrainian": "стілець",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0005",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "desk",
+"polish": "biurko",
+"ukrainian": "письмовий стіл",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0006",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "sofa",
+"polish": "sofa",
+"ukrainian": "диван",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0007",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "armchair",
+"polish": "fotel",
+"ukrainian": "крісло",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0008",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "wardrobe",
+"polish": "szafa",
+"ukrainian": "шафа",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0009",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "cupboard",
+"polish": "szafka",
+"ukrainian": "шафка",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0010",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "shelf",
+"polish": "półka",
+"ukrainian": "полиця",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0011",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "bookcase",
+"polish": "regał na książki",
+"ukrainian": "книжкова шафа",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0012",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "drawer",
+"polish": "szuflada",
+"ukrainian": "шухляда",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0013",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "lamp",
+"polish": "lampa",
+"ukrainian": "лампа",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0014",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "mirror",
+"polish": "lustro",
+"ukrainian": "дзеркало",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0015",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "carpet",
+"polish": "dywan",
+"ukrainian": "килим",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0016",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "pillow",
+"polish": "poduszka",
+"ukrainian": "подушка",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0017",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "curtain",
+"polish": "zasłona",
+"ukrainian": "штора",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0018",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "clock",
+"polish": "zegar",
+"ukrainian": "годинник",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0019",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "picture",
+"polish": "obraz",
+"ukrainian": "картина",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0020",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "plant",
+"polish": "roślina",
+"ukrainian": "рослина",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0021",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "television",
+"polish": "telewizor",
+"ukrainian": "телевізор",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0022",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "TV stand",
+"polish": "szafka pod telewizor",
+"ukrainian": "тумба під телевізор",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0023",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "nightstand",
+"polish": "szafka nocna",
+"ukrainian": "приліжкова тумбочка",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0024",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "bunk bed",
+"polish": "łóżko piętrowe",
+"ukrainian": "двоярусне ліжко",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0025",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "toy box",
+"polish": "skrzynia na zabawki",
+"ukrainian": "скриня для іграшок",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0026",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "blanket",
+"polish": "koc",
+"ukrainian": "ковдра",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0027",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "light",
+"polish": "światło",
+"ukrainian": "світло",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0028",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "light switch",
+"polish": "włącznik światła",
+"ukrainian": "вимикач світла",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0029",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "door handle",
+"polish": "klamka",
+"ukrainian": "дверна ручка",
+"status": "not-learned"
+},
+{
+"code": "VOC-FURN-A1-0030",
+"level": "A1",
+"category": "furniture",
+"partOfSpeech": "noun",
+"english": "bin",
+"polish": "kosz na śmieci",
+"ukrainian": "смітник",
+"status": "not-learned"
+}
+]
+

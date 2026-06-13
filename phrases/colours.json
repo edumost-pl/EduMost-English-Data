@@ -1,0 +1,66 @@
+[
+{
+"code": "PHR-COLOR-A1-0001",
+"level": "A1",
+"category": "colours",
+"english": "What colour is it?",
+"polish": "Jaki to kolor?",
+"ukrainian": "Якого це кольору?"
+},
+{
+"code": "PHR-COLOR-A1-0002",
+"level": "A1",
+"category": "colours",
+"english": "It is red.",
+"polish": "To jest czerwone.",
+"ukrainian": "Воно червоне."
+},
+{
+"code": "PHR-COLOR-A1-0003",
+"level": "A1",
+"category": "colours",
+"english": "My favourite colour is blue.",
+"polish": "Mój ulubiony kolor to niebieski.",
+"ukrainian": "Мій улюблений колір — синій."
+},
+{
+"code": "PHR-COLOR-A1-0004",
+"level": "A1",
+"category": "colours",
+"english": "The book is green.",
+"polish": "Książka jest zielona.",
+"ukrainian": "Книга зелена."
+},
+{
+"code": "PHR-COLOR-A1-0005",
+"level": "A1",
+"category": "colours",
+"english": "The backpack is black.",
+"polish": "Plecak jest czarny.",
+"ukrainian": "Рюкзак чорний."
+},
+{
+"code": "PHR-COLOR-A1-0006",
+"level": "A1",
+"category": "colours",
+"english": "I like yellow.",
+"polish": "Lubię żółty kolor.",
+"ukrainian": "Мені подобається жовтий колір."
+},
+{
+"code": "PHR-COLOR-A1-0007",
+"level": "A1",
+"category": "colours",
+"english": "The pencil is brown.",
+"polish": "Ołówek jest brązowy.",
+"ukrainian": "Олівець коричневий."
+},
+{
+"code": "PHR-COLOR-A1-0008",
+"level": "A1",
+"category": "colours",
+"english": "The ruler is pink.",
+"polish": "Linijka jest różowa.",
+"ukrainian": "Лінійка рожева."
+}
+]

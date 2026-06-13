@@ -1,0 +1,102 @@
+[
+{
+"code": "VOC-DAY-A1-0001",
+"level": "A1",
+"category": "days-of-week",
+"partOfSpeech": "noun",
+"english": "Monday",
+"polish": "poniedziałek",
+"ukrainian": "понеділок",
+"status": "not-learned"
+},
+{
+"code": "VOC-DAY-A1-0002",
+"level": "A1",
+"category": "days-of-week",
+"partOfSpeech": "noun",
+"english": "Tuesday",
+"polish": "wtorek",
+"ukrainian": "вівторок",
+"status": "not-learned"
+},
+{
+"code": "VOC-DAY-A1-0003",
+"level": "A1",
+"category": "days-of-week",
+"partOfSpeech": "noun",
+"english": "Wednesday",
+"polish": "środa",
+"ukrainian": "середа",
+"status": "not-learned"
+},
+{
+"code": "VOC-DAY-A1-0004",
+"level": "A1",
+"category": "days-of-week",
+"partOfSpeech": "noun",
+"english": "Thursday",
+"polish": "czwartek",
+"ukrainian": "четвер",
+"status": "not-learned"
+},
+{
+"code": "VOC-DAY-A1-0005",
+"level": "A1",
+"category": "days-of-week",
+"partOfSpeech": "noun",
+"english": "Friday",
+"polish": "piątek",
+"ukrainian": "п'ятниця",
+"status": "not-learned"
+},
+{
+"code": "VOC-DAY-A1-0006",
+"level": "A1",
+"category": "days-of-week",
+"partOfSpeech": "noun",
+"english": "Saturday",
+"polish": "sobota",
+"ukrainian": "субота",
+"status": "not-learned"
+},
+{
+"code": "VOC-DAY-A1-0007",
+"level": "A1",
+"category": "days-of-week",
+"partOfSpeech": "noun",
+"english": "Sunday",
+"polish": "niedziela",
+"ukrainian": "неділя",
+"status": "not-learned"
+},
+{
+"code": "VOC-DAY-A1-0008",
+"level": "A1",
+"category": "days-of-week",
+"partOfSpeech": "noun",
+"english": "weekday",
+"polish": "dzień powszedni",
+"ukrainian": "будній день",
+"status": "not-learned"
+},
+{
+"code": "VOC-DAY-A1-0009",
+"level": "A1",
+"category": "days-of-week",
+"partOfSpeech": "noun",
+"english": "weekend",
+"polish": "weekend",
+"ukrainian": "вихідні",
+"status": "not-learned"
+},
+{
+"code": "VOC-DAY-A1-0010",
+"level": "A1",
+"category": "days-of-week",
+"partOfSpeech": "noun",
+"english": "week",
+"polish": "tydzień",
+"ukrainian": "тиждень",
+"status": "not-learned"
+}
+]

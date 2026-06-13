@@ -1,0 +1,111 @@
+
+[
+{
+"code": "PHR-SEASON-A1-0001",
+"level": "A1",
+"category": "seasons",
+"english": "There are four seasons in a year.",
+"polish": "W roku są cztery pory roku.",
+"ukrainian": "У році є чотири пори року.",
+"status": "not-learned"
+},
+{
+"code": "PHR-SEASON-A1-0002",
+"level": "A1",
+"category": "seasons",
+"english": "Spring is my favourite season.",
+"polish": "Wiosna jest moją ulubioną porą roku.",
+"ukrainian": "Весна — моя улюблена пора року.",
+"status": "not-learned"
+},
+{
+"code": "PHR-SEASON-A1-0003",
+"level": "A1",
+"category": "seasons",
+"english": "The weather is warm in spring.",
+"polish": "Wiosną pogoda jest ciepła.",
+"ukrainian": "Навесні погода тепла.",
+"status": "not-learned"
+},
+{
+"code": "PHR-SEASON-A1-0004",
+"level": "A1",
+"category": "seasons",
+"english": "Summer is hot.",
+"polish": "Lato jest gorące.",
+"ukrainian": "Літо спекотне.",
+"status": "not-learned"
+},
+{
+"code": "PHR-SEASON-A1-0005",
+"level": "A1",
+"category": "seasons",
+"english": "I like summer holidays.",
+"polish": "Lubię wakacje letnie.",
+"ukrainian": "Я люблю літні канікули.",
+"status": "not-learned"
+},
+{
+"code": "PHR-SEASON-A1-0006",
+"level": "A1",
+"category": "seasons",
+"english": "The sun shines in summer.",
+"polish": "Latem świeci słońce.",
+"ukrainian": "Влітку світить сонце.",
+"status": "not-learned"
+},
+{
+"code": "PHR-SEASON-A1-0007",
+"level": "A1",
+"category": "seasons",
+"english": "Autumn is colourful.",
+"polish": "Jesień jest kolorowa.",
+"ukrainian": "Осінь барвиста.",
+"status": "not-learned"
+},
+{
+"code": "PHR-SEASON-A1-0008",
+"level": "A1",
+"category": "seasons",
+"english": "Leaves fall in autumn.",
+"polish": "Jesienią liście spadają.",
+"ukrainian": "Восени листя падає.",
+"status": "not-learned"
+},
+{
+"code": "PHR-SEASON-A1-0009",
+"level": "A1",
+"category": "seasons",
+"english": "Winter is cold.",
+"polish": "Zima jest zimna.",
+"ukrainian": "Зима холодна.",
+"status": "not-learned"
+},
+{
+"code": "PHR-SEASON-A1-0010",
+"level": "A1",
+"category": "seasons",
+"english": "I can make a snowman in winter.",
+"polish": "Zimą mogę ulepić bałwana.",
+"ukrainian": "Взимку я можу зліпити сніговика.",
+"status": "not-learned"
+},
+{
+"code": "PHR-SEASON-A1-0011",
+"level": "A1",
+"category": "seasons",
+"english": "It often snows in winter.",
+"polish": "Zimą często pada śnieg.",
+"ukrainian": "Взимку часто йде сніг.",
+"status": "not-learned"
+},
+{
+"code": "PHR-SEASON-A1-0012",
+"level": "A1",
+"category": "seasons",
+"english": "I like all seasons.",
+"polish": "Lubię wszystkie pory roku.",
+"ukrainian": "Мені подобаються всі пори року.",
+"status": "not-learned"
+}
+]

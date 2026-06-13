@@ -1,0 +1,34 @@
+[
+    {
+  "code": "PHR-NUMB-A1-0001",
+  "level": "A1",
+  "category": "numbers",
+  "english": "Can you count to ten?",
+  "polish": "Czy umiesz liczyć do dziesięciu?",
+  "ukrainian": "Ти вмієш рахувати до десяти?"
+},
+{
+  "code": "PHR-NUMB-A1-0002",
+  "level": "A1",
+  "category": "numbers",
+  "english": "Let's count together.",
+  "polish": "Policzmy razem.",
+  "ukrainian": "Давай порахуємо разом."
+},
+{
+  "code": "PHR-NUMB-A1-0003",
+  "level": "A1",
+  "category": "numbers",
+  "english": "What number is it?",
+  "polish": "Jaka to liczba?",
+  "ukrainian": "Яке це число?"
+},
+{
+  "code": "PHR-NUMB-A1-0004",
+  "level": "A1",
+  "category": "numbers",
+  "english": "I am number one.",
+  "polish": "Jestem numer jeden.",
+  "ukrainian": "Я номер один."
+}
+]

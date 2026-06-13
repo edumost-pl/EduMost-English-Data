@@ -1,26 +1,122 @@
 [
-  {
-    "code": "PHR-FEEL-A1-001",
-    "level": "A1",
-    "category": "Feelings",
-    "english": "How are you?",
-    "polish": "Jak się masz?",
-    "ukrainian": "Як справи?"
-  },
-  {
-    "code": "PHR-FEEL-A1-002",
-    "level": "A1",
-    "category": "feelings",
-    "english": "I am happy.",
-    "polish": "Jestem szczęśliwy/szczęśliwa.",
-    "ukrainian": "Я щасливий/щаслива."
-  },
-  {
-    "code": "PHR-FEEL-A1-003",
-    "level": "A1",
-    "category": "feelings",
-    "english": "I am sad.",
-    "polish": "Jestem smutny/smutna.",
-    "ukrainian": "Я сумний/сумна."
-  }
+{
+"code": "PHR-FEEL-A1-0001",
+"level": "A1",
+"category": "feelings",
+"english": "How are you?",
+"polish": "Jak się masz?",
+"ukrainian": "Як справи?"
+},
+{
+"code": "PHR-FEEL-A1-0002",
+"level": "A1",
+"category": "feelings",
+"english": "I am happy.",
+"polish": "Jestem szczęśliwy.",
+"ukrainian": "Я щасливий."
+},
+{
+"code": "PHR-FEEL-A1-0003",
+"level": "A1",
+"category": "feelings",
+"english": "I am sad.",
+"polish": "Jestem smutny.",
+"ukrainian": "Я сумний."
+},
+{
+"code": "PHR-FEEL-A1-0004",
+"level": "A1",
+"category": "feelings",
+"english": "I am fine.",
+"polish": "Mam się dobrze.",
+"ukrainian": "У мене все добре."
+},
+{
+"code": "PHR-FEEL-A1-0005",
+"level": "A1",
+"category": "feelings",
+"english": "I feel great.",
+"polish": "Czuję się świetnie.",
+"ukrainian": "Я почуваюся чудово."
+},
+{
+"code": "PHR-FEEL-A1-0006",
+"level": "A1",
+"category": "feelings",
+"english": "I am tired.",
+"polish": "Jestem zmęczony.",
+"ukrainian": "Я втомлений."
+},
+{
+"code": "PHR-FEEL-A1-0007",
+"level": "A1",
+"category": "feelings",
+"english": "I am excited.",
+"polish": "Jestem podekscytowany.",
+"ukrainian": "Я схвильований."
+},
+{
+"code": "PHR-FEEL-A1-0008",
+"level": "A1",
+"category": "feelings",
+"english": "I am hungry.",
+"polish": "Jestem głodny.",
+"ukrainian": "Я голодний."
+},
+{
+"code": "PHR-FEEL-A1-0009",
+"level": "A1",
+"category": "feelings",
+"english": "I am thirsty.",
+"polish": "Jestem spragniony.",
+"ukrainian": "Я хочу пити."
+},
+{
+"code": "PHR-FEEL-A1-0010",
+"level": "A1",
+"category": "feelings",
+"english": "I am sleepy.",
+"polish": "Jestem senny.",
+"ukrainian": "Я сонний."
+},
+{
+"code": "PHR-FEEL-A1-0011",
+"level": "A1",
+"category": "feelings",
+"english": "I am angry.",
+"polish": "Jestem zły.",
+"ukrainian": "Я сердитий."
+},
+{
+"code": "PHR-FEEL-A1-0012",
+"level": "A1",
+"category": "feelings",
+"english": "I am scared.",
+"polish": "Jestem przestraszony.",
+"ukrainian": "Я наляканий."
+},
+{
+"code": "PHR-FEEL-A1-0013",
+"level": "A1",
+"category": "feelings",
+"english": "I am surprised.",
+"polish": "Jestem zaskoczony.",
+"ukrainian": "Я здивований."
+},
+{
+"code": "PHR-FEEL-A1-0014",
+"level": "A1",
+"category": "feelings",
+"english": "I am calm.",
+"polish": "Jestem spokojny.",
+"ukrainian": "Я спокійний."
+},
+{
+"code": "PHR-FEEL-A1-0015",
+"level": "A1",
+"category": "feelings",
+"english": "Today I feel good.",
+"polish": "Dziś czuję się dobrze.",
+"ukrainian": "Сьогодні я почуваюся добре."
+}
 ]

@@ -1,0 +1,272 @@
+[
+{
+"code": "PHR-HOUSE-A1-0001",
+"level": "A1",
+"category": "house",
+"english": "This is my house.",
+"polish": "To jest mój dom.",
+"ukrainian": "Це мій будинок.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0002",
+"level": "A1",
+"category": "house",
+"english": "I live in a house.",
+"polish": "Mieszkam w domu.",
+"ukrainian": "Я живу в будинку.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0003",
+"level": "A1",
+"category": "house",
+"english": "I live in a flat.",
+"polish": "Mieszkam w mieszkaniu.",
+"ukrainian": "Я живу в квартирі.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0004",
+"level": "A1",
+"category": "house",
+"english": "My house is big.",
+"polish": "Mój dom jest duży.",
+"ukrainian": "Мій будинок великий.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0005",
+"level": "A1",
+"category": "house",
+"english": "My flat is small.",
+"polish": "Moje mieszkanie jest małe.",
+"ukrainian": "Моя квартира маленька.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0006",
+"level": "A1",
+"category": "house",
+"english": "Open the door.",
+"polish": "Otwórz drzwi.",
+"ukrainian": "Відчини двері.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0007",
+"level": "A1",
+"category": "house",
+"english": "Close the door.",
+"polish": "Zamknij drzwi.",
+"ukrainian": "Зачини двері.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0008",
+"level": "A1",
+"category": "house",
+"english": "Open the window.",
+"polish": "Otwórz okno.",
+"ukrainian": "Відчини вікно.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0009",
+"level": "A1",
+"category": "house",
+"english": "Close the window.",
+"polish": "Zamknij okno.",
+"ukrainian": "Зачини вікно.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0010",
+"level": "A1",
+"category": "house",
+"english": "The roof is red.",
+"polish": "Dach jest czerwony.",
+"ukrainian": "Дах червоний.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0011",
+"level": "A1",
+"category": "house",
+"english": "The wall is white.",
+"polish": "Ściana jest biała.",
+"ukrainian": "Стіна біла.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0012",
+"level": "A1",
+"category": "house",
+"english": "The floor is clean.",
+"polish": "Podłoga jest czysta.",
+"ukrainian": "Підлога чиста.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0013",
+"level": "A1",
+"category": "house",
+"english": "Go upstairs.",
+"polish": "Idź na górę.",
+"ukrainian": "Іди нагору.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0014",
+"level": "A1",
+"category": "house",
+"english": "Come downstairs.",
+"polish": "Zejdź na dół.",
+"ukrainian": "Спускайся вниз.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0015",
+"level": "A1",
+"category": "house",
+"english": "We have a garden.",
+"polish": "Mamy ogród.",
+"ukrainian": "У нас є сад.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0016",
+"level": "A1",
+"category": "house",
+"english": "I play in the yard.",
+"polish": "Bawię się na podwórku.",
+"ukrainian": "Я граюся на подвір'ї.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0017",
+"level": "A1",
+"category": "house",
+"english": "My bike is in the garage.",
+"polish": "Mój rower jest w garażu.",
+"ukrainian": "Мій велосипед у гаражі.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0018",
+"level": "A1",
+"category": "house",
+"english": "I am on the balcony.",
+"polish": "Jestem na balkonie.",
+"ukrainian": "Я на балконі.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0019",
+"level": "A1",
+"category": "house",
+"english": "Take the lift.",
+"polish": "Jedź windą.",
+"ukrainian": "Скористайся ліфтом.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0020",
+"level": "A1",
+"category": "house",
+"english": "I have a key.",
+"polish": "Mam klucz.",
+"ukrainian": "У мене є ключ.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0021",
+"level": "A1",
+"category": "house",
+"english": "The letterbox is near the gate.",
+"polish": "Skrzynka na listy jest przy bramie.",
+"ukrainian": "Поштова скринька біля воріт.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0022",
+"level": "A1",
+"category": "house",
+"english": "Our chimney is tall.",
+"polish": "Nasz komin jest wysoki.",
+"ukrainian": "Наш димар високий.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0023",
+"level": "A1",
+"category": "house",
+"english": "Walk on the path.",
+"polish": "Idź ścieżką.",
+"ukrainian": "Іди доріжкою.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0024",
+"level": "A1",
+"category": "house",
+"english": "What is your address?",
+"polish": "Jaki jest twój adres?",
+"ukrainian": "Яка твоя адреса?",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0025",
+"level": "A1",
+"category": "house",
+"english": "My neighbour is friendly.",
+"polish": "Mój sąsiad jest przyjazny.",
+"ukrainian": "Мій сусід дружній.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0026",
+"level": "A1",
+"category": "house",
+"english": "I live on this street.",
+"polish": "Mieszkam na tej ulicy.",
+"ukrainian": "Я живу на цій вулиці.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0027",
+"level": "A1",
+"category": "house",
+"english": "This block of flats is new.",
+"polish": "Ten blok mieszkalny jest nowy.",
+"ukrainian": "Цей багатоквартирний будинок новий.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0028",
+"level": "A1",
+"category": "house",
+"english": "Welcome to my home.",
+"polish": "Witaj w moim domu.",
+"ukrainian": "Ласкаво просимо до мого дому.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0029",
+"level": "A1",
+"category": "house",
+"english": "My house has a garden.",
+"polish": "Mój dom ma ogród.",
+"ukrainian": "Мій будинок має сад.",
+"status": "not-learned"
+},
+{
+"code": "PHR-HOUSE-A1-0030",
+"level": "A1",
+"category": "house",
+"english": "The gate is open.",
+"polish": "Brama jest otwarta.",
+"ukrainian": "Ворота відчинені.",
+"status": "not-learned"
+}
+]

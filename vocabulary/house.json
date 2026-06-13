@@ -1,0 +1,252 @@
+[
+{
+"code": "VOC-HOUSE-A1-0001",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "house",
+"polish": "dom",
+"ukrainian": "будинок",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0002",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "home",
+"polish": "dom",
+"ukrainian": "дім",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0003",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "flat",
+"polish": "mieszkanie",
+"ukrainian": "квартира",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0004",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "building",
+"polish": "budynek",
+"ukrainian": "будівля",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0005",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "door",
+"polish": "drzwi",
+"ukrainian": "двері",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0006",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "window",
+"polish": "okno",
+"ukrainian": "вікно",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0007",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "roof",
+"polish": "dach",
+"ukrainian": "дах",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0008",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "wall",
+"polish": "ściana",
+"ukrainian": "стіна",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0009",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "floor",
+"polish": "podłoga",
+"ukrainian": "підлога",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0010",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "stairs",
+"polish": "schody",
+"ukrainian": "сходи",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0011",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "gate",
+"polish": "brama",
+"ukrainian": "ворота",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0012",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "fence",
+"polish": "płot",
+"ukrainian": "паркан",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0013",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "garden",
+"polish": "ogród",
+"ukrainian": "сад",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0014",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "yard",
+"polish": "podwórko",
+"ukrainian": "подвір'я",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0015",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "garage",
+"polish": "garaż",
+"ukrainian": "гараж",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0016",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "balcony",
+"polish": "balkon",
+"ukrainian": "балкон",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0017",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "lift",
+"polish": "winda",
+"ukrainian": "ліфт",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0018",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "key",
+"polish": "klucz",
+"ukrainian": "ключ",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0019",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "letterbox",
+"polish": "skrzynka na listy",
+"ukrainian": "поштова скринька",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0020",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "chimney",
+"polish": "komin",
+"ukrainian": "димар",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0021",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "path",
+"polish": "ścieżka",
+"ukrainian": "доріжка",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0022",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "address",
+"polish": "adres",
+"ukrainian": "адреса",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0023",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "neighbour",
+"polish": "sąsiad",
+"ukrainian": "сусід",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0024",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "street",
+"polish": "ulica",
+"ukrainian": "вулиця",
+"status": "not-learned"
+},
+{
+"code": "VOC-HOUSE-A1-0025",
+"level": "A1",
+"category": "house",
+"partOfSpeech": "noun",
+"english": "block of flats",
+"polish": "blok mieszkalny",
+"ukrainian": "багатоквартирний будинок",
+"status": "not-learned"
+}
+]

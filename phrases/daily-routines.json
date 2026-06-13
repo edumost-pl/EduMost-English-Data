@@ -1,0 +1,318 @@
+[
+{
+"code": "PHR-ROUTINE-A1-0001",
+"level": "A1",
+"category": "daily-routines",
+"english": "I wake up in the morning.",
+"polish": "Budzę się rano.",
+"ukrainian": "Я прокидаюся вранці.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0002",
+"level": "A1",
+"category": "daily-routines",
+"english": "I get up at seven o'clock.",
+"polish": "Wstaję o siódmej.",
+"ukrainian": "Я встаю о сьомій годині.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0003",
+"level": "A1",
+"category": "daily-routines",
+"english": "I wash my face.",
+"polish": "Myję twarz.",
+"ukrainian": "Я мию обличчя.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0004",
+"level": "A1",
+"category": "daily-routines",
+"english": "I brush my teeth.",
+"polish": "Myję zęby.",
+"ukrainian": "Я чищу зуби.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0005",
+"level": "A1",
+"category": "daily-routines",
+"english": "I get dressed.",
+"polish": "Ubieram się.",
+"ukrainian": "Я одягаюся.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0006",
+"level": "A1",
+"category": "daily-routines",
+"english": "I have breakfast.",
+"polish": "Jem śniadanie.",
+"ukrainian": "Я снідаю.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0007",
+"level": "A1",
+"category": "daily-routines",
+"english": "I drink tea.",
+"polish": "Piję herbatę.",
+"ukrainian": "Я п'ю чай.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0008",
+"level": "A1",
+"category": "daily-routines",
+"english": "I go to school.",
+"polish": "Idę do szkoły.",
+"ukrainian": "Я йду до школи.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0009",
+"level": "A1",
+"category": "daily-routines",
+"english": "I learn at school.",
+"polish": "Uczę się w szkole.",
+"ukrainian": "Я навчаюся у школі.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0010",
+"level": "A1",
+"category": "daily-routines",
+"english": "I read books.",
+"polish": "Czytam książki.",
+"ukrainian": "Я читаю книги.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0011",
+"level": "A1",
+"category": "daily-routines",
+"english": "I write in my notebook.",
+"polish": "Piszę w zeszycie.",
+"ukrainian": "Я пишу в зошиті.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0012",
+"level": "A1",
+"category": "daily-routines",
+"english": "I listen to my teacher.",
+"polish": "Słucham nauczyciela.",
+"ukrainian": "Я слухаю вчителя.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0013",
+"level": "A1",
+"category": "daily-routines",
+"english": "I play with my friends.",
+"polish": "Bawię się z przyjaciółmi.",
+"ukrainian": "Я граюся з друзями.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0014",
+"level": "A1",
+"category": "daily-routines",
+"english": "I have lunch.",
+"polish": "Jem obiad.",
+"ukrainian": "Я обідаю.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0015",
+"level": "A1",
+"category": "daily-routines",
+"english": "I go home after school.",
+"polish": "Idę do domu po szkole.",
+"ukrainian": "Я йду додому після школи.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0016",
+"level": "A1",
+"category": "daily-routines",
+"english": "I do my homework.",
+"polish": "Odrabiam pracę domową.",
+"ukrainian": "Я роблю домашнє завдання.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0017",
+"level": "A1",
+"category": "daily-routines",
+"english": "I study at home.",
+"polish": "Uczę się w domu.",
+"ukrainian": "Я займаюся вдома.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0018",
+"level": "A1",
+"category": "daily-routines",
+"english": "I help my parents.",
+"polish": "Pomagam rodzicom.",
+"ukrainian": "Я допомагаю батькам.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0019",
+"level": "A1",
+"category": "daily-routines",
+"english": "I clean my room.",
+"polish": "Sprzątam swój pokój.",
+"ukrainian": "Я прибираю свою кімнату.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0020",
+"level": "A1",
+"category": "daily-routines",
+"english": "I watch TV.",
+"polish": "Oglądam telewizję.",
+"ukrainian": "Я дивлюся телевізор.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0021",
+"level": "A1",
+"category": "daily-routines",
+"english": "I relax in the evening.",
+"polish": "Odpoczywam wieczorem.",
+"ukrainian": "Я відпочиваю ввечері.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0022",
+"level": "A1",
+"category": "daily-routines",
+"english": "I take a shower.",
+"polish": "Biorę prysznic.",
+"ukrainian": "Я приймаю душ.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0023",
+"level": "A1",
+"category": "daily-routines",
+"english": "I take a bath.",
+"polish": "Biorę kąpiel.",
+"ukrainian": "Я приймаю ванну.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0024",
+"level": "A1",
+"category": "daily-routines",
+"english": "I have dinner with my family.",
+"polish": "Jem kolację z rodziną.",
+"ukrainian": "Я вечеряю з родиною.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0025",
+"level": "A1",
+"category": "daily-routines",
+"english": "I brush my teeth before bed.",
+"polish": "Myję zęby przed snem.",
+"ukrainian": "Я чищу зуби перед сном.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0026",
+"level": "A1",
+"category": "daily-routines",
+"english": "I go to bed at nine o'clock.",
+"polish": "Idę spać o dziewiątej.",
+"ukrainian": "Я йду спати о дев'ятій годині.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0027",
+"level": "A1",
+"category": "daily-routines",
+"english": "I sleep at night.",
+"polish": "Śpię w nocy.",
+"ukrainian": "Я сплю вночі.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0028",
+"level": "A1",
+"category": "daily-routines",
+"english": "I am busy every day.",
+"polish": "Jestem zajęty każdego dnia.",
+"ukrainian": "Я зайнятий щодня.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0029",
+"level": "A1",
+"category": "daily-routines",
+"english": "My morning starts early.",
+"polish": "Mój poranek zaczyna się wcześnie.",
+"ukrainian": "Мій ранок починається рано.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0030",
+"level": "A1",
+"category": "daily-routines",
+"english": "My evening is relaxing.",
+"polish": "Mój wieczór jest spokojny.",
+"ukrainian": "Мій вечір спокійний.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0031",
+"level": "A1",
+"category": "daily-routines",
+"english": "I eat breakfast every morning.",
+"polish": "Jem śniadanie każdego ranka.",
+"ukrainian": "Я снідаю щоранку.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0032",
+"level": "A1",
+"category": "daily-routines",
+"english": "I drink water every day.",
+"polish": "Piję wodę każdego dnia.",
+"ukrainian": "Я п'ю воду щодня.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0033",
+"level": "A1",
+"category": "daily-routines",
+"english": "I like my daily routine.",
+"polish": "Lubię swoją codzienną rutynę.",
+"ukrainian": "Мені подобається мій щоденний розпорядок дня.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0034",
+"level": "A1",
+"category": "daily-routines",
+"english": "Every day is different.",
+"polish": "Każdy dzień jest inny.",
+"ukrainian": "Кожен день різний.",
+"status": "not-learned"
+},
+{
+"code": "PHR-ROUTINE-A1-0035",
+"level": "A1",
+"category": "daily-routines",
+"english": "This is my daily routine.",
+"polish": "To jest moja codzienna rutyna.",
+"ukrainian": "Це мій щоденний розпорядок дня.",
+"status": "not-learned"
+}
+]
+

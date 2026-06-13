@@ -1,0 +1,65 @@
+[
+{
+"code": "PHR-QWORD-A1-0001",
+"level": "A1",
+"category": "question-words",
+"english": "What is your name?",
+"polish": "Jak masz na imię?",
+"ukrainian": "Як тебе звати?",
+"status": "not-learned"
+},
+{
+"code": "PHR-QWORD-A1-0002",
+"level": "A1",
+"category": "question-words",
+"english": "Who is your teacher?",
+"polish": "Kto jest twoim nauczycielem?",
+"ukrainian": "Хто твій учитель?",
+"status": "not-learned"
+},
+{
+"code": "PHR-QWORD-A1-0003",
+"level": "A1",
+"category": "question-words",
+"english": "Where do you live?",
+"polish": "Gdzie mieszkasz?",
+"ukrainian": "Де ти живеш?",
+"status": "not-learned"
+},
+{
+"code": "PHR-QWORD-A1-0004",
+"level": "A1",
+"category": "question-words",
+"english": "When is your birthday?",
+"polish": "Kiedy są twoje urodziny?",
+"ukrainian": "Коли твій день народження?",
+"status": "not-learned"
+},
+{
+"code": "PHR-QWORD-A1-0005",
+"level": "A1",
+"category": "question-words",
+"english": "Why are you happy?",
+"polish": "Dlaczego jesteś szczęśliwy?",
+"ukrainian": "Чому ти щасливий?",
+"status": "not-learned"
+},
+{
+"code": "PHR-QWORD-A1-0006",
+"level": "A1",
+"category": "question-words",
+"english": "How are you?",
+"polish": "Jak się masz?",
+"ukrainian": "Як справи?",
+"status": "not-learned"
+},
+{
+"code": "PHR-QWORD-A1-0007",
+"level": "A1",
+"category": "question-words",
+"english": "Which colour do you like?",
+"polish": "Który kolor lubisz?",
+"ukrainian": "Який колір тобі подобається?",
+"status": "not-learned"
+}
+]

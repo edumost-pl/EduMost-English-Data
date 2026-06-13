@@ -1,0 +1,72 @@
+[
+{
+"code": "VOC-QWORD-A1-0001",
+"level": "A1",
+"category": "question-words",
+"partOfSpeech": "question-word",
+"english": "what",
+"polish": "co",
+"ukrainian": "що",
+"status": "not-learned"
+},
+{
+"code": "VOC-QWORD-A1-0002",
+"level": "A1",
+"category": "question-words",
+"partOfSpeech": "question-word",
+"english": "who",
+"polish": "kto",
+"ukrainian": "хто",
+"status": "not-learned"
+},
+{
+"code": "VOC-QWORD-A1-0003",
+"level": "A1",
+"category": "question-words",
+"partOfSpeech": "question-word",
+"english": "where",
+"polish": "gdzie",
+"ukrainian": "де",
+"status": "not-learned"
+},
+{
+"code": "VOC-QWORD-A1-0004",
+"level": "A1",
+"category": "question-words",
+"partOfSpeech": "question-word",
+"english": "when",
+"polish": "kiedy",
+"ukrainian": "коли",
+"status": "not-learned"
+},
+{
+"code": "VOC-QWORD-A1-0005",
+"level": "A1",
+"category": "question-words",
+"partOfSpeech": "question-word",
+"english": "why",
+"polish": "dlaczego",
+"ukrainian": "чому",
+"status": "not-learned"
+},
+{
+"code": "VOC-QWORD-A1-0006",
+"level": "A1",
+"category": "question-words",
+"partOfSpeech": "question-word",
+"english": "how",
+"polish": "jak",
+"ukrainian": "як",
+"status": "not-learned"
+},
+{
+"code": "VOC-QWORD-A1-0007",
+"level": "A1",
+"category": "question-words",
+"partOfSpeech": "question-word",
+"english": "which",
+"polish": "który",
+"ukrainian": "який",
+"status": "not-learned"
+}
+]

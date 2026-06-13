@@ -1,0 +1,122 @@
+[
+{
+"code": "PHR-SITEM-A1-0011",
+"level": "A1",
+"category": "school-items",
+"english": "Open your notebook.",
+"polish": "Otwórz zeszyt.",
+"ukrainian": "Відкрий зошит."
+},
+{
+"code": "PHR-SITEM-A1-0012",
+"level": "A1",
+"category": "school-items",
+"english": "Close your notebook.",
+"polish": "Zamknij zeszyt.",
+"ukrainian": "Закрий зошит."
+},
+{
+"code": "PHR-SITEM-A1-0013",
+"level": "A1",
+"category": "school-items",
+"english": "Take a pencil.",
+"polish": "Weź ołówek.",
+"ukrainian": "Візьми олівець."
+},
+{
+"code": "PHR-SITEM-A1-0014",
+"level": "A1",
+"category": "school-items",
+"english": "Take a pen.",
+"polish": "Weź długopis.",
+"ukrainian": "Візьми ручку."
+},
+{
+"code": "PHR-SITEM-A1-0015",
+"level": "A1",
+"category": "school-items",
+"english": "Write with a pencil.",
+"polish": "Pisz ołówkiem.",
+"ukrainian": "Пиши олівцем."
+},
+{
+"code": "PHR-SITEM-A1-0016",
+"level": "A1",
+"category": "school-items",
+"english": "Draw a picture.",
+"polish": "Narysuj obrazek.",
+"ukrainian": "Намалюй малюнок."
+},
+{
+"code": "PHR-SITEM-A1-0017",
+"level": "A1",
+"category": "school-items",
+"english": "Use the ruler.",
+"polish": "Użyj linijki.",
+"ukrainian": "Використай лінійку."
+},
+{
+"code": "PHR-SITEM-A1-0018",
+"level": "A1",
+"category": "school-items",
+"english": "Colour the picture.",
+"polish": "Pokoloruj obrazek.",
+"ukrainian": "Розфарбуй малюнок."
+},
+{
+"code": "PHR-SITEM-A1-0019",
+"level": "A1",
+"category": "school-items",
+"english": "Put the book in your backpack.",
+"polish": "Włóż książkę do plecaka.",
+"ukrainian": "Поклади книгу в рюкзак."
+},
+{
+"code": "PHR-SITEM-A1-0020",
+"level": "A1",
+"category": "school-items",
+"english": "Show me your notebook.",
+"polish": "Pokaż mi swój zeszyt.",
+"ukrainian": "Покажи мені свій зошит."
+},
+{
+"code": "PHR-SITEM-A1-0021",
+"level": "A1",
+"category": "school-items",
+"english": "I need a pencil.",
+"polish": "Potrzebuję ołówka.",
+"ukrainian": "Мені потрібен олівець."
+},
+{
+"code": "PHR-SITEM-A1-0022",
+"level": "A1",
+"category": "school-items",
+"english": "Can I borrow your pen?",
+"polish": "Czy mogę pożyczyć twój długopis?",
+"ukrainian": "Можна позичити твою ручку?"
+},
+{
+"code": "PHR-SITEM-A1-0023",
+"level": "A1",
+"category": "school-items",
+"english": "My pencil case is on the desk.",
+"polish": "Mój piórnik jest na biurku.",
+"ukrainian": "Мій пенал на парті."
+},
+{
+"code": "PHR-SITEM-A1-0024",
+"level": "A1",
+"category": "school-items",
+"english": "The book is on the desk.",
+"polish": "Książka jest na biurku.",
+"ukrainian": "Книга лежить на парті."
+},
+{
+"code": "PHR-SITEM-A1-0025",
+"level": "A1",
+"category": "school-items",
+"english": "The notebook is in my backpack.",
+"polish": "Zeszyt jest w moim plecaku.",
+"ukrainian": "Зошит у моєму рюкзаку."
+}
+]

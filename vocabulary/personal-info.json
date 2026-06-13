@@ -1,10 +1,362 @@
 [
   {
-    "code": "VOC-PERS-A1-001",
-     "level": "A1",
+    "code": "VOC-PINFO-A1-0001",
+    "level": "A1",
     "category": "personal-info",
+    "partOfSpeech": "noun",
     "english": "name",
     "polish": "imię",
     "ukrainian": "ім'я"
-  }
+  },
+  {
+    "code": "VOC-PINFO-A1-0002",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "noun",
+    "english": "surname",
+    "polish": "nazwisko",
+    "ukrainian": "прізвище"
+  },
+  {
+    "code": "VOC-PINFO-A1-0003",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "noun",
+    "english": "age",
+    "polish": "wiek",
+    "ukrainian": "вік"
+  },
+  {
+    "code": "VOC-PINFO-A1-0004",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "noun",
+    "english": "boy",
+    "polish": "chłopiec",
+    "ukrainian": "хлопчик"
+  },
+  {
+    "code": "VOC-PINFO-A1-0005",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "noun",
+    "english": "girl",
+    "polish": "dziewczynka",
+    "ukrainian": "дівчинка"
+  },
+  {
+    "code": "VOC-PINFO-A1-0006",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "noun",
+    "english": "child",
+    "polish": "dziecko",
+    "ukrainian": "дитина"
+  },
+  {
+    "code": "VOC-PINFO-A1-0007",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "noun",
+    "english": "friend",
+    "polish": "przyjaciel",
+    "ukrainian": "друг"
+  },
+  {
+    "code": "VOC-PINFO-A1-0008",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "noun",
+    "english": "student",
+    "polish": "uczeń",
+    "ukrainian": "учень"
+  },
+  {
+    "code": "VOC-PINFO-A1-0009",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "noun",
+    "english": "classmate",
+    "polish": "kolega z klasy",
+    "ukrainian": "однокласник"
+  },
+  {
+    "code": "VOC-PINFO-A1-0010",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "noun",
+    "english": "person",
+    "polish": "osoba",
+    "ukrainian": "людина"
+  },
+  {
+    "code": "VOC-PINFO-A1-0011",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "pronoun",
+    "english": "I",
+    "polish": "ja",
+    "ukrainian": "я"
+  },
+  {
+    "code": "VOC-PINFO-A1-0012",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "pronoun",
+    "english": "you",
+    "polish": "ty",
+    "ukrainian": "ти"
+  },
+  {
+    "code": "VOC-PINFO-A1-0013",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "pronoun",
+    "english": "he",
+    "polish": "on",
+    "ukrainian": "він"
+  },
+  {
+    "code": "VOC-PINFO-A1-0014",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "pronoun",
+    "english": "she",
+    "polish": "ona",
+    "ukrainian": "вона"
+  },
+  {
+    "code": "VOC-PINFO-A1-0015",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "pronoun",
+    "english": "we",
+    "polish": "my",
+    "ukrainian": "ми"
+  },
+  {
+    "code": "VOC-PINFO-A1-0016",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "pronoun",
+    "english": "they",
+    "polish": "oni",
+    "ukrainian": "вони"
+  },
+  {
+    "code": "VOC-PINFO-A1-0017",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "verb",
+    "english": "be",
+    "polish": "być",
+    "ukrainian": "бути"
+  },
+  {
+    "code": "VOC-PINFO-A1-0018",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "verb",
+    "english": "live",
+    "polish": "mieszkać",
+    "ukrainian": "жити"
+  },
+  {
+    "code": "VOC-PINFO-A1-0019",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "verb",
+    "english": "come",
+    "polish": "pochodzić",
+    "ukrainian": "походити"
+  },
+  {
+    "code": "VOC-PINFO-A1-0020",
+    "level": "A1",
+    "category": "personal-info",
+    "partOfSpeech": "verb",
+    "english": "speak",
+    "polish": "mówić",
+    "ukrainian": "говорити"
+  },
+  {
+"code": "VOC-PINFO-A1-0021",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "country",
+"polish": "kraj",
+"ukrainian": "країна"
+},
+{
+"code": "VOC-PINFO-A1-0022",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "city",
+"polish": "miasto",
+"ukrainian": "місто"
+},
+{
+"code": "VOC-PINFO-A1-0023",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "town",
+"polish": "miasteczko",
+"ukrainian": "містечко"
+},
+{
+"code": "VOC-PINFO-A1-0024",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "village",
+"polish": "wieś",
+"ukrainian": "село"
+},
+{
+"code": "VOC-PINFO-A1-0025",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "address",
+"polish": "adres",
+"ukrainian": "адреса"
+},
+{
+"code": "VOC-PINFO-A1-0026",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "phone",
+"polish": "telefon",
+"ukrainian": "телефон"
+},
+{
+"code": "VOC-PINFO-A1-0027",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "phone number",
+"polish": "numer telefonu",
+"ukrainian": "номер телефону"
+},
+{
+"code": "VOC-PINFO-A1-0028",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "email",
+"polish": "e-mail",
+"ukrainian": "електронна пошта"
+},
+{
+"code": "VOC-PINFO-A1-0029",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "language",
+"polish": "język",
+"ukrainian": "мова"
+},
+{
+"code": "VOC-PINFO-A1-0030",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "nationality",
+"polish": "narodowość",
+"ukrainian": "національність"
+},
+{
+"code": "VOC-PINFO-A1-0031",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "teacher",
+"polish": "nauczyciel",
+"ukrainian": "вчитель"
+},
+{
+"code": "VOC-PINFO-A1-0032",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "pupil",
+"polish": "uczeń",
+"ukrainian": "учень"
+},
+{
+"code": "VOC-PINFO-A1-0033",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "man",
+"polish": "mężczyzna",
+"ukrainian": "чоловік"
+},
+{
+"code": "VOC-PINFO-A1-0034",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "noun",
+"english": "woman",
+"polish": "kobieta",
+"ukrainian": "жінка"
+},
+{
+"code": "VOC-PINFO-A1-0035",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "adjective",
+"english": "young",
+"polish": "młody",
+"ukrainian": "молодий"
+},
+{
+"code": "VOC-PINFO-A1-0036",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "adjective",
+"english": "old",
+"polish": "stary",
+"ukrainian": "старий"
+},
+{
+"code": "VOC-PINFO-A1-0037",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "adjective",
+"english": "new",
+"polish": "nowy",
+"ukrainian": "новий"
+},
+{
+"code": "VOC-PINFO-A1-0038",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "verb",
+"english": "learn",
+"polish": "uczyć się",
+"ukrainian": "вчитися"
+},
+{
+"code": "VOC-PINFO-A1-0039",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "verb",
+"english": "study",
+"polish": "studiować",
+"ukrainian": "навчатися"
+},
+{
+"code": "VOC-PINFO-A1-0040",
+"level": "A1",
+"category": "personal-info",
+"partOfSpeech": "verb",
+"english": "know",
+"polish": "znać",
+"ukrainian": "знати"
+}
 ]

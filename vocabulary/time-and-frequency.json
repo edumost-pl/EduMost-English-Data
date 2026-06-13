@@ -1,0 +1,82 @@
+[
+{
+"code": "VOC-TIME-A1-0001",
+"level": "A1",
+"category": "time-and-frequency",
+"partOfSpeech": "adverb",
+"english": "always",
+"polish": "zawsze",
+"ukrainian": "завжди",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0002",
+"level": "A1",
+"category": "time-and-frequency",
+"partOfSpeech": "adverb",
+"english": "usually",
+"polish": "zwykle",
+"ukrainian": "зазвичай",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0003",
+"level": "A1",
+"category": "time-and-frequency",
+"partOfSpeech": "adverb",
+"english": "sometimes",
+"polish": "czasami",
+"ukrainian": "іноді",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0004",
+"level": "A1",
+"category": "time-and-frequency",
+"partOfSpeech": "adverb",
+"english": "never",
+"polish": "nigdy",
+"ukrainian": "ніколи",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0005",
+"level": "A1",
+"category": "time-and-frequency",
+"partOfSpeech": "adverb",
+"english": "first",
+"polish": "najpierw",
+"ukrainian": "спочатку",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0006",
+"level": "A1",
+"category": "time-and-frequency",
+"partOfSpeech": "adverb",
+"english": "then",
+"polish": "potem",
+"ukrainian": "потім",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0007",
+"level": "A1",
+"category": "time-and-frequency",
+"partOfSpeech": "preposition",
+"english": "after",
+"polish": "po",
+"ukrainian": "після",
+"status": "not-learned"
+},
+{
+"code": "VOC-TIME-A1-0008",
+"level": "A1",
+"category": "time-and-frequency",
+"partOfSpeech": "adverb",
+"english": "finally",
+"polish": "na końcu",
+"ukrainian": "нарешті",
+"status": "not-learned"
+}
+]

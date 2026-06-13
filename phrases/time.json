@@ -1,0 +1,137 @@
+[
+{
+"code": "PHR-TIME-A1-0001",
+"level": "A1",
+"category": "time",
+"english": "What time is it?",
+"polish": "Która jest godzina?",
+"ukrainian": "Котра година?",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0002",
+"level": "A1",
+"category": "time",
+"english": "It is one o'clock.",
+"polish": "Jest pierwsza.",
+"ukrainian": "Перша година.",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0003",
+"level": "A1",
+"category": "time",
+"english": "It is three o'clock.",
+"polish": "Jest trzecia.",
+"ukrainian": "Третя година.",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0004",
+"level": "A1",
+"category": "time",
+"english": "It is seven o'clock.",
+"polish": "Jest siódma.",
+"ukrainian": "Сьома година.",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0005",
+"level": "A1",
+"category": "time",
+"english": "I get up at seven o'clock.",
+"polish": "Wstaję o siódmej.",
+"ukrainian": "Я встаю о сьомій годині.",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0006",
+"level": "A1",
+"category": "time",
+"english": "School starts at eight o'clock.",
+"polish": "Szkoła zaczyna się o ósmej.",
+"ukrainian": "Школа починається о восьмій.",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0007",
+"level": "A1",
+"category": "time",
+"english": "Good morning!",
+"polish": "Dzień dobry!",
+"ukrainian": "Доброго ранку!",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0008",
+"level": "A1",
+"category": "time",
+"english": "Good evening!",
+"polish": "Dobry wieczór!",
+"ukrainian": "Добрий вечір!",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0009",
+"level": "A1",
+"category": "time",
+"english": "Good night!",
+"polish": "Dobranoc!",
+"ukrainian": "Добраніч!",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0010",
+"level": "A1",
+"category": "time",
+"english": "Today is a good day.",
+"polish": "Dziś jest dobry dzień.",
+"ukrainian": "Сьогодні гарний день.",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0011",
+"level": "A1",
+"category": "time",
+"english": "Tomorrow is Saturday.",
+"polish": "Jutro jest sobota.",
+"ukrainian": "Завтра субота.",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0012",
+"level": "A1",
+"category": "time",
+"english": "Yesterday was Friday.",
+"polish": "Wczoraj był piątek.",
+"ukrainian": "Вчора була п'ятниця.",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0013",
+"level": "A1",
+"category": "time",
+"english": "I play in the afternoon.",
+"polish": "Bawię się po południu.",
+"ukrainian": "Я граюся після обіду.",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0014",
+"level": "A1",
+"category": "time",
+"english": "I do my homework in the evening.",
+"polish": "Odrabiam pracę domową wieczorem.",
+"ukrainian": "Я роблю домашнє завдання ввечері.",
+"status": "not-learned"
+},
+{
+"code": "PHR-TIME-A1-0015",
+"level": "A1",
+"category": "time",
+"english": "I sleep at night.",
+"polish": "Śpię w nocy.",
+"ukrainian": "Я сплю вночі.",
+"status": "not-learned"
+}
+]

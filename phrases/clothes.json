@@ -1,0 +1,47 @@
+[
+    {
+"code": "PHR-CLOTH-A1-0001",
+"level": "A1",
+"category": "clothes",
+"english": "I am wearing a T-shirt.",
+"polish": "Mam na sobie koszulkę.",
+"ukrainian": "На мені футболка.",
+"status": "not-learned"
+},
+{
+"code": "PHR-CLOTH-A1-0002",
+"level": "A1",
+"category": "clothes",
+"english": "I am wearing jeans.",
+"polish": "Mam na sobie dżinsy.",
+"ukrainian": "На мені джинси.",
+"status": "not-learned"
+},
+{
+"code": "PHR-CLOTH-A1-0003",
+"level": "A1",
+"category": "clothes",
+"english": "My shoes are black.",
+"polish": "Moje buty są czarne.",
+"ukrainian": "Моє взуття чорне.",
+"status": "not-learned"
+},
+{
+"code": "PHR-CLOTH-A1-0004",
+"level": "A1",
+"category": "clothes",
+"english": "This is my jacket.",
+"polish": "To jest moja kurtka.",
+"ukrainian": "Це моя куртка.",
+"status": "not-learned"
+},
+{
+"code": "PHR-CLOTH-A1-0005",
+"level": "A1",
+"category": "clothes",
+"english": "I like this dress.",
+"polish": "Lubię tę sukienkę.",
+"ukrainian": "Мені подобається ця сукня.",
+"status": "not-learned"
+}
+]

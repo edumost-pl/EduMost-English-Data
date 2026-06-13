@@ -1,0 +1,252 @@
+[
+  {
+    "code": "VOC-BODY-A1-0001",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "body",
+    "polish": "ciało",
+    "ukrainian": "тіло",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0002",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "head",
+    "polish": "głowa",
+    "ukrainian": "голова",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0003",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "face",
+    "polish": "twarz",
+    "ukrainian": "обличчя",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0004",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "hair",
+    "polish": "włosy",
+    "ukrainian": "волосся",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0005",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "eye",
+    "polish": "oko",
+    "ukrainian": "око",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0006",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "ear",
+    "polish": "ucho",
+    "ukrainian": "вухо",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0007",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "nose",
+    "polish": "nos",
+    "ukrainian": "ніс",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0008",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "mouth",
+    "polish": "usta",
+    "ukrainian": "рот",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0009",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "tooth",
+    "polish": "ząb",
+    "ukrainian": "зуб",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0010",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "tongue",
+    "polish": "język",
+    "ukrainian": "язик",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0011",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "neck",
+    "polish": "szyja",
+    "ukrainian": "шия",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0012",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "shoulder",
+    "polish": "ramię",
+    "ukrainian": "плече",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0013",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "arm",
+    "polish": "ręka",
+    "ukrainian": "рука",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0014",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "hand",
+    "polish": "dłoń",
+    "ukrainian": "кисть руки",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0015",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "finger",
+    "polish": "palec",
+    "ukrainian": "палець",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0016",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "leg",
+    "polish": "noga",
+    "ukrainian": "нога",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0017",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "knee",
+    "polish": "kolano",
+    "ukrainian": "коліно",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0018",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "foot",
+    "polish": "stopa",
+    "ukrainian": "ступня",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0019",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "toe",
+    "polish": "palec u stopy",
+    "ukrainian": "палець ноги",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0020",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "back",
+    "polish": "plecy",
+    "ukrainian": "спина",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0021",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "stomach",
+    "polish": "żołądek",
+    "ukrainian": "шлунок",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0022",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "heart",
+    "polish": "serce",
+    "ukrainian": "серце",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0023",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "skin",
+    "polish": "skóra",
+    "ukrainian": "шкіра",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0024",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "bone",
+    "polish": "kość",
+    "ukrainian": "кістка",
+    "status": "not-learned"
+  },
+  {
+    "code": "VOC-BODY-A1-0025",
+    "level": "A1",
+    "category": "body",
+    "partOfSpeech": "noun",
+    "english": "blood",
+    "polish": "krew",
+    "ukrainian": "кров",
+    "status": "not-learned"
+  }
+]

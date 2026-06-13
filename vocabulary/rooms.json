@@ -1,0 +1,253 @@
+[
+{
+"code": "VOC-ROOM-A1-0001",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "room",
+"polish": "pokój",
+"ukrainian": "кімната",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0002",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "bedroom",
+"polish": "sypialnia",
+"ukrainian": "спальня",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0003",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "living room",
+"polish": "salon",
+"ukrainian": "вітальня",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0004",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "kitchen",
+"polish": "kuchnia",
+"ukrainian": "кухня",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0005",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "bathroom",
+"polish": "łazienka",
+"ukrainian": "ванна кімната",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0006",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "toilet",
+"polish": "toaleta",
+"ukrainian": "туалет",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0007",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "hall",
+"polish": "hol",
+"ukrainian": "хол",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0008",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "corridor",
+"polish": "korytarz",
+"ukrainian": "коридор",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0009",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "dining room",
+"polish": "jadalnia",
+"ukrainian": "їдальня",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0010",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "children's room",
+"polish": "pokój dziecięcy",
+"ukrainian": "дитяча кімната",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0011",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "guest room",
+"polish": "pokój gościnny",
+"ukrainian": "кімната для гостей",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0012",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "study",
+"polish": "gabinet",
+"ukrainian": "кабінет",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0013",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "attic",
+"polish": "strych",
+"ukrainian": "горище",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0014",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "basement",
+"polish": "piwnica",
+"ukrainian": "підвал",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0015",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "laundry room",
+"polish": "pralnia",
+"ukrainian": "пральня",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0016",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "playroom",
+"polish": "pokój zabaw",
+"ukrainian": "ігрова кімната",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0017",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "entrance",
+"polish": "wejście",
+"ukrainian": "вхід",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0018",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "adverb",
+"english": "upstairs",
+"polish": "na górze",
+"ukrainian": "нагорі",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0019",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "adverb",
+"english": "downstairs",
+"polish": "na dole",
+"ukrainian": "внизу",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0020",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "corner",
+"polish": "róg",
+"ukrainian": "кут",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0021",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "ceiling",
+"polish": "sufit",
+"ukrainian": "стеля",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0022",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "doorway",
+"polish": "przejście drzwiowe",
+"ukrainian": "дверний проріз",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0023",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "adverb",
+"english": "inside",
+"polish": "wewnątrz",
+"ukrainian": "всередині",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0024",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "adverb",
+"english": "outside",
+"polish": "na zewnątrz",
+"ukrainian": "зовні",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROOM-A1-0025",
+"level": "A1",
+"category": "rooms",
+"partOfSpeech": "noun",
+"english": "storey",
+"polish": "piętro",
+"ukrainian": "поверх",
+"status": "not-learned"
+}
+]
+

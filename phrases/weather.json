@@ -1,0 +1,274 @@
+[
+{
+"code": "PHR-WEATHER-A1-0001",
+"level": "A1",
+"category": "weather",
+"english": "The weather is nice today.",
+"polish": "Pogoda jest dziś ładna.",
+"ukrainian": "Сьогодні гарна погода.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0002",
+"level": "A1",
+"category": "weather",
+"english": "The sun is shining.",
+"polish": "Słońce świeci.",
+"ukrainian": "Сонце світить.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0003",
+"level": "A1",
+"category": "weather",
+"english": "It is sunny today.",
+"polish": "Dziś jest słonecznie.",
+"ukrainian": "Сьогодні сонячно.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0004",
+"level": "A1",
+"category": "weather",
+"english": "It is rainy today.",
+"polish": "Dziś jest deszczowo.",
+"ukrainian": "Сьогодні дощово.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0005",
+"level": "A1",
+"category": "weather",
+"english": "It is snowy today.",
+"polish": "Dziś jest śnieżnie.",
+"ukrainian": "Сьогодні сніжно.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0006",
+"level": "A1",
+"category": "weather",
+"english": "It is windy today.",
+"polish": "Dziś jest wietrznie.",
+"ukrainian": "Сьогодні вітряно.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0007",
+"level": "A1",
+"category": "weather",
+"english": "It is cloudy today.",
+"polish": "Dziś jest pochmurno.",
+"ukrainian": "Сьогодні хмарно.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0008",
+"level": "A1",
+"category": "weather",
+"english": "It is foggy today.",
+"polish": "Dziś jest mglisto.",
+"ukrainian": "Сьогодні туманно.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0009",
+"level": "A1",
+"category": "weather",
+"english": "It is hot today.",
+"polish": "Dziś jest gorąco.",
+"ukrainian": "Сьогодні спекотно.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0010",
+"level": "A1",
+"category": "weather",
+"english": "It is cold today.",
+"polish": "Dziś jest zimno.",
+"ukrainian": "Сьогодні холодно.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0011",
+"level": "A1",
+"category": "weather",
+"english": "It is warm today.",
+"polish": "Dziś jest ciepło.",
+"ukrainian": "Сьогодні тепло.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0012",
+"level": "A1",
+"category": "weather",
+"english": "It is cool today.",
+"polish": "Dziś jest chłodno.",
+"ukrainian": "Сьогодні прохолодно.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0013",
+"level": "A1",
+"category": "weather",
+"english": "It is wet outside.",
+"polish": "Na zewnątrz jest mokro.",
+"ukrainian": "Надворі мокро.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0014",
+"level": "A1",
+"category": "weather",
+"english": "It is dry today.",
+"polish": "Dziś jest sucho.",
+"ukrainian": "Сьогодні сухо.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0015",
+"level": "A1",
+"category": "weather",
+"english": "The sky is blue.",
+"polish": "Niebo jest niebieskie.",
+"ukrainian": "Небо блакитне.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0016",
+"level": "A1",
+"category": "weather",
+"english": "There is a cloud in the sky.",
+"polish": "Na niebie jest chmura.",
+"ukrainian": "На небі є хмара.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0017",
+"level": "A1",
+"category": "weather",
+"english": "I like sunny weather.",
+"polish": "Lubię słoneczną pogodę.",
+"ukrainian": "Я люблю сонячну погоду.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0018",
+"level": "A1",
+"category": "weather",
+"english": "I do not like rainy weather.",
+"polish": "Nie lubię deszczowej pogody.",
+"ukrainian": "Я не люблю дощову погоду.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0019",
+"level": "A1",
+"category": "weather",
+"english": "The wind is strong.",
+"polish": "Wiatr jest silny.",
+"ukrainian": "Вітер сильний.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0020",
+"level": "A1",
+"category": "weather",
+"english": "It is raining.",
+"polish": "Pada deszcz.",
+"ukrainian": "Йде дощ.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0021",
+"level": "A1",
+"category": "weather",
+"english": "It is snowing.",
+"polish": "Pada śnieg.",
+"ukrainian": "Йде сніг.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0022",
+"level": "A1",
+"category": "weather",
+"english": "Look at the rainbow.",
+"polish": "Spójrz na tęczę.",
+"ukrainian": "Подивись на веселку.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0023",
+"level": "A1",
+"category": "weather",
+"english": "I need an umbrella.",
+"polish": "Potrzebuję parasola.",
+"ukrainian": "Мені потрібна парасоля.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0024",
+"level": "A1",
+"category": "weather",
+"english": "Wear your jacket.",
+"polish": "Załóż kurtkę.",
+"ukrainian": "Одягни куртку.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0025",
+"level": "A1",
+"category": "weather",
+"english": "Wear your hat and gloves.",
+"polish": "Załóż czapkę i rękawiczki.",
+"ukrainian": "Одягни шапку і рукавички.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0026",
+"level": "A1",
+"category": "weather",
+"english": "The temperature is ten degrees.",
+"polish": "Temperatura wynosi dziesięć stopni.",
+"ukrainian": "Температура становить десять градусів.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0027",
+"level": "A1",
+"category": "weather",
+"english": "The sun is warm.",
+"polish": "Słońce jest ciepłe.",
+"ukrainian": "Сонце тепле.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0028",
+"level": "A1",
+"category": "weather",
+"english": "The snow is white.",
+"polish": "Śnieg jest biały.",
+"ukrainian": "Сніг білий.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0029",
+"level": "A1",
+"category": "weather",
+"english": "I can see a snowflake.",
+"polish": "Widzę płatek śniegu.",
+"ukrainian": "Я бачу сніжинку.",
+"status": "not-learned"
+},
+{
+"code": "PHR-WEATHER-A1-0030",
+"level": "A1",
+"category": "weather",
+"english": "Today is a beautiful day.",
+"polish": "Dziś jest piękny dzień.",
+"ukrainian": "Сьогодні прекрасний день.",
+"status": "not-learned"
+}
+]
+
+

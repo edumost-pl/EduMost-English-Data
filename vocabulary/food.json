@@ -1,0 +1,599 @@
+[
+  {
+    "code": "VOC-FOOD-A1-0001",
+    "level": "A1",
+    "category": "food",
+    "partOfSpeech": "noun",
+    "english": "food",
+    "polish": "jedzenie",
+    "ukrainian": "їжа"
+  },
+  {
+    "code": "VOC-FOOD-A1-0002",
+    "level": "A1",
+    "category": "food",
+    "partOfSpeech": "noun",
+    "english": "meal",
+    "polish": "posiłek",
+    "ukrainian": "прийом їжі"
+  },
+  {
+    "code": "VOC-FOOD-A1-0003",
+    "level": "A1",
+    "category": "food",
+    "partOfSpeech": "noun",
+    "english": "breakfast",
+    "polish": "śniadanie",
+    "ukrainian": "сніданок"
+  },
+  {
+    "code": "VOC-FOOD-A1-0004",
+    "level": "A1",
+    "category": "food",
+    "partOfSpeech": "noun",
+    "english": "lunch",
+    "polish": "lunch",
+    "ukrainian": "обід"
+  },
+  {
+    "code": "VOC-FOOD-A1-0005",
+    "level": "A1",
+    "category": "food",
+    "partOfSpeech": "noun",
+    "english": "dinner",
+    "polish": "obiad",
+    "ukrainian": "вечеря"
+  },
+  {
+    "code": "VOC-FOOD-A1-0006",
+    "level": "A1",
+    "category": "food",
+    "partOfSpeech": "verb",
+    "english": "eat",
+    "polish": "jeść",
+    "ukrainian": "їсти"
+  },
+  {
+    "code": "VOC-FOOD-A1-0007",
+    "level": "A1",
+    "category": "food",
+    "partOfSpeech": "verb",
+    "english": "drink",
+    "polish": "pić",
+    "ukrainian": "пити"
+  },
+  {
+    "code": "VOC-FOOD-A1-0008",
+    "level": "A1",
+    "category": "food",
+    "partOfSpeech": "adjective",
+    "english": "hungry",
+    "polish": "głodny",
+    "ukrainian": "голодний"
+  },
+  {
+    "code": "VOC-FOOD-A1-0009",
+    "level": "A1",
+    "category": "food",
+    "partOfSpeech": "adjective",
+    "english": "thirsty",
+    "polish": "spragniony",
+    "ukrainian": "спраглий"
+  },
+  {
+    "code": "VOC-FOOD-A1-0010",
+    "level": "A1",
+    "category": "food",
+    "partOfSpeech": "noun",
+    "english": "apple",
+    "polish": "jabłko",
+    "ukrainian": "яблуко"
+  },
+  {
+    "code": "VOC-FOOD-A1-0011",
+    "english": "banana",
+    "polish": "banan",
+    "ukrainian": "банан"
+  },
+  {
+    "code": "VOC-FOOD-A1-0012",
+    "english": "orange",
+    "polish": "pomarańcza",
+    "ukrainian": "апельсин"
+  },
+  {
+    "code": "VOC-FOOD-A1-0013",
+    "english": "pear",
+    "polish": "gruszka",
+    "ukrainian": "груша"
+  },
+  {
+    "code": "VOC-FOOD-A1-0014",
+    "english": "grape",
+    "polish": "winogrono",
+    "ukrainian": "виноград"
+  },
+  {
+    "code": "VOC-FOOD-A1-0015",
+    "english": "strawberry",
+    "polish": "truskawka",
+    "ukrainian": "полуниця"
+  },
+  {
+    "code": "VOC-FOOD-A1-0016",
+    "english": "cherry",
+    "polish": "wiśnia",
+    "ukrainian": "вишня"
+  },
+  {
+    "code": "VOC-FOOD-A1-0017",
+    "english": "watermelon",
+    "polish": "arbuz",
+    "ukrainian": "кавун"
+  },
+  {
+    "code": "VOC-FOOD-A1-0018",
+    "english": "lemon",
+    "polish": "cytryna",
+    "ukrainian": "лимон"
+  },
+  {
+    "code": "VOC-FOOD-A1-0019",
+    "english": "potato",
+    "polish": "ziemniak",
+    "ukrainian": "картопля"
+  },
+  {
+    "code": "VOC-FOOD-A1-0020",
+    "english": "tomato",
+    "polish": "pomidor",
+    "ukrainian": "помідор"
+  },
+  {
+    "code": "VOC-FOOD-A1-0021",
+    "english": "cucumber",
+    "polish": "ogórek",
+    "ukrainian": "огірок"
+  },
+  {
+    "code": "VOC-FOOD-A1-0022",
+    "english": "carrot",
+    "polish": "marchewka",
+    "ukrainian": "морква"
+  },
+  {
+    "code": "VOC-FOOD-A1-0023",
+    "english": "onion",
+    "polish": "cebula",
+    "ukrainian": "цибуля"
+  },
+  {
+    "code": "VOC-FOOD-A1-0024",
+    "english": "cabbage",
+    "polish": "kapusta",
+    "ukrainian": "капуста"
+  },
+  {
+    "code": "VOC-FOOD-A1-0025",
+    "english": "corn",
+    "polish": "kukurydza",
+    "ukrainian": "кукурудза"
+  },
+  {
+    "code": "VOC-FOOD-A1-0026",
+    "english": "water",
+    "polish": "woda",
+    "ukrainian": "вода"
+  },
+  {
+    "code": "VOC-FOOD-A1-0027",
+    "english": "juice",
+    "polish": "sok",
+    "ukrainian": "сік"
+  },
+  {
+    "code": "VOC-FOOD-A1-0028",
+    "english": "milk",
+    "polish": "mleko",
+    "ukrainian": "молоко"
+  },
+  {
+    "code": "VOC-FOOD-A1-0029",
+    "english": "tea",
+    "polish": "herbata",
+    "ukrainian": "чай"
+  },
+  {
+    "code": "VOC-FOOD-A1-0030",
+    "english": "hot chocolate",
+    "polish": "gorąca czekolada",
+    "ukrainian": "гарячий шоколад"
+  },
+  {
+"code": "VOC-FOOD-A1-0031",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "bread",
+"polish": "chleb",
+"ukrainian": "хліб"
+},
+{
+"code": "VOC-FOOD-A1-0032",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "butter",
+"polish": "masło",
+"ukrainian": "масло"
+},
+{
+"code": "VOC-FOOD-A1-0033",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "cheese",
+"polish": "ser",
+"ukrainian": "сир"
+},
+{
+"code": "VOC-FOOD-A1-0034",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "egg",
+"polish": "jajko",
+"ukrainian": "яйце"
+},
+{
+"code": "VOC-FOOD-A1-0035",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "yogurt",
+"polish": "jogurt",
+"ukrainian": "йогурт"
+},
+{
+"code": "VOC-FOOD-A1-0036",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "chicken",
+"polish": "kurczak",
+"ukrainian": "курка"
+},
+{
+"code": "VOC-FOOD-A1-0037",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "fish",
+"polish": "ryba",
+"ukrainian": "риба"
+},
+{
+"code": "VOC-FOOD-A1-0038",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "sausage",
+"polish": "kiełbasa",
+"ukrainian": "ковбаса"
+},
+{
+"code": "VOC-FOOD-A1-0039",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "cake",
+"polish": "ciasto",
+"ukrainian": "торт"
+},
+{
+"code": "VOC-FOOD-A1-0040",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "cookie",
+"polish": "ciastko",
+"ukrainian": "печиво"
+},
+{
+"code": "VOC-FOOD-A1-0041",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "ice cream",
+"polish": "lody",
+"ukrainian": "морозиво"
+},
+{
+"code": "VOC-FOOD-A1-0042",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "chocolate",
+"polish": "czekolada",
+"ukrainian": "шоколад"
+},
+{
+"code": "VOC-FOOD-A1-0043",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "candy",
+"polish": "cukierek",
+"ukrainian": "цукерка"
+},
+{
+"code": "VOC-FOOD-A1-0044",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "sandwich",
+"polish": "kanapka",
+"ukrainian": "бутерброд"
+},
+{
+"code": "VOC-FOOD-A1-0045",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "pizza",
+"polish": "pizza",
+"ukrainian": "піца"
+},
+{
+"code": "VOC-FOOD-A1-0046",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "hamburger",
+"polish": "hamburger",
+"ukrainian": "гамбургер"
+},
+{
+"code": "VOC-FOOD-A1-0047",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "plate",
+"polish": "talerz",
+"ukrainian": "тарілка"
+},
+{
+"code": "VOC-FOOD-A1-0048",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "cup",
+"polish": "kubek",
+"ukrainian": "чашка"
+},
+{
+"code": "VOC-FOOD-A1-0049",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "glass",
+"polish": "szklanka",
+"ukrainian": "склянка"
+},
+{
+"code": "VOC-FOOD-A1-0050",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "spoon",
+"polish": "łyżka",
+"ukrainian": "ложка"
+},
+{
+"code": "VOC-FOOD-A1-0051",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "fork",
+"polish": "widelec",
+"ukrainian": "виделка"
+},
+{
+"code": "VOC-FOOD-A1-0052",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "knife",
+"polish": "nóż",
+"ukrainian": "ніж"
+},
+{
+"code": "VOC-FOOD-A1-0053",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "rice",
+"polish": "ryż",
+"ukrainian": "рис"
+},
+{
+"code": "VOC-FOOD-A1-0054",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "pasta",
+"polish": "makaron",
+"ukrainian": "макарони"
+},
+{
+"code": "VOC-FOOD-A1-0055",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "soup",
+"polish": "zupa",
+"ukrainian": "суп"
+},
+{
+"code": "VOC-FOOD-A1-0056",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "salad",
+"polish": "sałatka",
+"ukrainian": "салат"
+},
+{
+"code": "VOC-FOOD-A1-0057",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "meat",
+"polish": "mięso",
+"ukrainian": "м'ясо"
+},
+{
+"code": "VOC-FOOD-A1-0058",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "beef",
+"polish": "wołowina",
+"ukrainian": "яловичина"
+},
+{
+"code": "VOC-FOOD-A1-0059",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "pork",
+"polish": "wieprzowina",
+"ukrainian": "свинина"
+},
+{
+"code": "VOC-FOOD-A1-0060",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "peach",
+"polish": "brzoskwinia",
+"ukrainian": "персик"
+},
+{
+"code": "VOC-FOOD-A1-0061",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "plum",
+"polish": "śliwka",
+"ukrainian": "слива"
+},
+{
+"code": "VOC-FOOD-A1-0062",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "kiwi",
+"polish": "kiwi",
+"ukrainian": "ківі"
+},
+{
+"code": "VOC-FOOD-A1-0063",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "pineapple",
+"polish": "ananas",
+"ukrainian": "ананас"
+},
+{
+"code": "VOC-FOOD-A1-0064",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "pepper",
+"polish": "papryka",
+"ukrainian": "перець"
+},
+{
+"code": "VOC-FOOD-A1-0065",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "garlic",
+"polish": "czosnek",
+"ukrainian": "часник"
+},
+{
+"code": "VOC-FOOD-A1-0066",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "peas",
+"polish": "groszek",
+"ukrainian": "горох"
+},
+{
+"code": "VOC-FOOD-A1-0067",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "beans",
+"polish": "fasola",
+"ukrainian": "квасоля"
+},
+{
+"code": "VOC-FOOD-A1-0068",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "jam",
+"polish": "dżem",
+"ukrainian": "джем"
+},
+{
+"code": "VOC-FOOD-A1-0069",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "honey",
+"polish": "miód",
+"ukrainian": "мед"
+},
+{
+"code": "VOC-FOOD-A1-0070",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "sugar",
+"polish": "cukier",
+"ukrainian": "цукор"
+},
+{
+"code": "VOC-FOOD-A1-0071",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "breakfast table",
+"polish": "stół śniadaniowy",
+"ukrainian": "стіл для сніданку"
+},
+{
+"code": "VOC-FOOD-A1-0072",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "napkin",
+"polish": "serwetka",
+"ukrainian": "серветка"
+},
+{
+"code": "VOC-FOOD-A1-0073",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "bottle",
+"polish": "butelka",
+"ukrainian": "пляшка"
+}
+]

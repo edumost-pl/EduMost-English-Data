@@ -1,0 +1,425 @@
+[
+  {
+    "code": "VOC-ANIM-A1-0001",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "animal",
+    "polish": "zwierzę",
+    "ukrainian": "тварина"
+  },
+  {
+    "code": "VOC-ANIM-A1-0002",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "pet",
+    "polish": "zwierzątko domowe",
+    "ukrainian": "домашній улюбленець"
+  },
+  {
+    "code": "VOC-ANIM-A1-0003",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "dog",
+    "polish": "pies",
+    "ukrainian": "собака"
+  },
+  {
+    "code": "VOC-ANIM-A1-0004",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "puppy",
+    "polish": "szczeniak",
+    "ukrainian": "цуценя"
+  },
+  {
+    "code": "VOC-ANIM-A1-0005",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "cat",
+    "polish": "kot",
+    "ukrainian": "кіт"
+  },
+  {
+    "code": "VOC-ANIM-A1-0006",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "kitten",
+    "polish": "kotek",
+    "ukrainian": "кошеня"
+  },
+  {
+    "code": "VOC-ANIM-A1-0007",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "hamster",
+    "polish": "chomik",
+    "ukrainian": "хом'як"
+  },
+  {
+    "code": "VOC-ANIM-A1-0008",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "rabbit",
+    "polish": "królik",
+    "ukrainian": "кролик"
+  },
+  {
+    "code": "VOC-ANIM-A1-0009",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "parrot",
+    "polish": "papuga",
+    "ukrainian": "папуга"
+  },
+  {
+    "code": "VOC-ANIM-A1-0010",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "goldfish",
+    "polish": "złota rybka",
+    "ukrainian": "золота рибка"
+  }, 
+  {
+    "code": "VOC-ANIM-A1-0011",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "cow",
+    "polish": "krowa",
+    "ukrainian": "корова"
+  },
+  {
+    "code": "VOC-ANIM-A1-0012",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "horse",
+    "polish": "koń",
+    "ukrainian": "кінь"
+  },
+  {
+    "code": "VOC-ANIM-A1-0013",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "pig",
+    "polish": "świnia",
+    "ukrainian": "свиня"
+  },
+  {
+    "code": "VOC-ANIM-A1-0014",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "sheep",
+    "polish": "owca",
+    "ukrainian": "вівця"
+  },
+  {
+    "code": "VOC-ANIM-A1-0015",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "goat",
+    "polish": "koza",
+    "ukrainian": "коза"
+  },
+  {
+    "code": "VOC-ANIM-A1-0016",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "chicken",
+    "polish": "kurczak",
+    "ukrainian": "курка"
+  },
+  {
+    "code": "VOC-ANIM-A1-0017",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "duck",
+    "polish": "kaczka",
+    "ukrainian": "качка"
+  },
+  {
+    "code": "VOC-ANIM-A1-0018",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "rooster",
+    "polish": "kogut",
+    "ukrainian": "півень"
+  },
+  {
+    "code": "VOC-ANIM-A1-0019",
+    "english": "lion",
+    "polish": "lew",
+    "ukrainian": "лев"
+  },
+  {
+    "code": "VOC-ANIM-A1-0020",
+    "english": "tiger",
+    "polish": "tygrys",
+    "ukrainian": "тигр"
+  },
+  {
+    "code": "VOC-ANIM-A1-0021",
+    "english": "elephant",
+    "polish": "słoń",
+    "ukrainian": "слон"
+  },
+  {
+    "code": "VOC-ANIM-A1-0022",
+    "english": "giraffe",
+    "polish": "żyrafa",
+    "ukrainian": "жирафа"
+  },
+  {
+    "code": "VOC-ANIM-A1-0023",
+    "english": "zebra",
+    "polish": "zebra",
+    "ukrainian": "зебра"
+  },
+  {
+    "code": "VOC-ANIM-A1-0024",
+    "english": "monkey",
+    "polish": "małpa",
+    "ukrainian": "мавпа"
+  },
+  {
+    "code": "VOC-ANIM-A1-0025",
+    "english": "bear",
+    "polish": "niedźwiedź",
+    "ukrainian": "ведмідь"
+  },
+  {
+    "code": "VOC-ANIM-A1-0026",
+    "english": "wolf",
+    "polish": "wilk",
+    "ukrainian": "вовк"
+  },
+  {
+    "code": "VOC-ANIM-A1-0027",
+    "english": "fox",
+    "polish": "lis",
+    "ukrainian": "лисиця"
+  },
+  {
+    "code": "VOC-ANIM-A1-0028",
+    "english": "bird",
+    "polish": "ptak",
+    "ukrainian": "птах"
+  },
+  {
+    "code": "VOC-ANIM-A1-0029",
+    "english": "owl",
+    "polish": "sowa",
+    "ukrainian": "сова"
+  },
+  {
+    "code": "VOC-ANIM-A1-0030",
+    "english": "eagle",
+    "polish": "orzeł",
+    "ukrainian": "орел"
+  },
+  {
+    "code": "VOC-ANIM-A1-0031",
+    "english": "fish",
+    "polish": "ryba",
+    "ukrainian": "риба"
+  },
+  {
+    "code": "VOC-ANIM-A1-0032",
+    "english": "dolphin",
+    "polish": "delfin",
+    "ukrainian": "дельфін"
+  },
+  {
+    "code": "VOC-ANIM-A1-0033",
+    "english": "whale",
+    "polish": "wieloryb",
+    "ukrainian": "кит"
+  },
+  {
+    "code": "VOC-ANIM-A1-0034",
+    "english": "shark",
+    "polish": "rekin",
+    "ukrainian": "акула"
+  },
+  {
+    "code": "VOC-ANIM-A1-0035",
+    "english": "octopus",
+    "polish": "ośmiornica",
+    "ukrainian": "восьминіг"
+  },
+  {
+    "code": "VOC-ANIM-A1-0036",
+    "english": "butterfly",
+    "polish": "motyl",
+    "ukrainian": "метелик"
+  },
+  {
+    "code": "VOC-ANIM-A1-0037",
+    "english": "bee",
+    "polish": "pszczoła",
+    "ukrainian": "бджола"
+  },
+  {
+    "code": "VOC-ANIM-A1-0038",
+    "english": "ant",
+    "polish": "mrówka",
+    "ukrainian": "мураха"
+  },
+  {
+    "code": "VOC-ANIM-A1-0039",
+    "english": "spider",
+    "polish": "pająk",
+    "ukrainian": "павук"
+  },
+  {
+    "code": "VOC-ANIM-A1-0040",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "snake",
+    "polish": "wąż",
+    "ukrainian": "змія"
+  },
+  {
+    "code": "VOC-ANIM-A1-0041",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "turtle",
+    "polish": "żółw",
+    "ukrainian": "черепаха"
+  },
+  {
+    "code": "VOC-ANIM-A1-0042",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "frog",
+    "polish": "żaba",
+    "ukrainian": "жаба"
+  },
+  {
+    "code": "VOC-ANIM-A1-0043",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "mouse",
+    "polish": "mysz",
+    "ukrainian": "миша"
+  },
+  {
+    "code": "VOC-ANIM-A1-0044",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "deer",
+    "polish": "jeleń",
+    "ukrainian": "олень"
+  },
+  {
+    "code": "VOC-ANIM-A1-0045",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "hedgehog",
+    "polish": "jeż",
+    "ukrainian": "їжак"
+  },
+  {
+    "code": "VOC-ANIM-A1-0046",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "camel",
+    "polish": "wielbłąd",
+    "ukrainian": "верблюд"
+  },
+  {
+    "code": "VOC-ANIM-A1-0047",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "kangaroo",
+    "polish": "kangur",
+    "ukrainian": "кенгуру"
+  },
+  {
+    "code": "VOC-ANIM-A1-0048",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "penguin",
+    "polish": "pingwin",
+    "ukrainian": "пінгвін"
+  },
+  {
+    "code": "VOC-ANIM-A1-0049",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "seal",
+    "polish": "foka",
+    "ukrainian": "тюлень"
+  },
+  {
+    "code": "VOC-ANIM-A1-0050",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "crab",
+    "polish": "krab",
+    "ukrainian": "краб"
+  },
+  {
+    "code": "VOC-ANIM-A1-0051",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "starfish",
+    "polish": "rozgwiazda",
+    "ukrainian": "морська зірка"
+  },
+  {
+    "code": "VOC-ANIM-A1-0052",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "ladybug",
+    "polish": "biedronka",
+    "ukrainian": "сонечко"
+  },
+  {
+    "code": "VOC-ANIM-A1-0053",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "fly",
+    "polish": "mucha",
+    "ukrainian": "муха"
+  },
+  {
+    "code": "VOC-ANIM-A1-0054",
+    "level": "A1",
+    "category": "animals",
+    "partOfSpeech": "noun",
+    "english": "mosquito",
+    "polish": "komar",
+    "ukrainian": "комар"
+  }
+]

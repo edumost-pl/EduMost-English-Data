@@ -1,0 +1,66 @@
+[
+{
+"code": "PHR-FAM-A1-0001",
+"level": "A1",
+"category": "family",
+"english": "This is my family.",
+"polish": "To jest moja rodzina.",
+"ukrainian": "Це моя родина."
+},
+{
+"code": "PHR-FAM-A1-0002",
+"level": "A1",
+"category": "family",
+"english": "I have a brother.",
+"polish": "Mam brata.",
+"ukrainian": "У мене є брат."
+},
+{
+"code": "PHR-FAM-A1-0003",
+"level": "A1",
+"category": "family",
+"english": "I have a sister.",
+"polish": "Mam siostrę.",
+"ukrainian": "У мене є сестра."
+},
+{
+"code": "PHR-FAM-A1-0004",
+"level": "A1",
+"category": "family",
+"english": "My mother is kind.",
+"polish": "Moja mama jest miła.",
+"ukrainian": "Моя мама добра."
+},
+{
+"code": "PHR-FAM-A1-0005",
+"level": "A1",
+"category": "family",
+"english": "My father is funny.",
+"polish": "Mój tata jest zabawny.",
+"ukrainian": "Мій тато веселий."
+},
+{
+"code": "PHR-FAM-A1-0006",
+"level": "A1",
+"category": "family",
+"english": "I love my family.",
+"polish": "Kocham swoją rodzinę.",
+"ukrainian": "Я люблю свою родину."
+},
+{
+"code": "PHR-FAM-A1-0007",
+"level": "A1",
+"category": "family",
+"english": "My family is big.",
+"polish": "Moja rodzina jest duża.",
+"ukrainian": "Моя родина велика."
+},
+{
+"code": "PHR-FAM-A1-0008",
+"level": "A1",
+"category": "family",
+"english": "My family is small.",
+"polish": "Moja rodzina jest mała.",
+"ukrainian": "Моя родина маленька."
+}
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "code": "PHR-ANIM-A1-0001",
+    "level": "A1",
+    "category": "animals",
+    "english": "What is your favourite animal?",
+    "polish": "Jakie jest twoje ulubione zwierzę?",
+    "ukrainian": "Яка твоя улюблена тварина?"
+  },
+  {
+    "code": "PHR-ANIM-A1-0002",
+    "level": "A1",
+    "category": "animals",
+    "english": "My favourite animal is a dog.",
+    "polish": "Moim ulubionym zwierzęciem jest pies.",
+    "ukrainian": "Моя улюблена тварина — собака."
+  },
+  {
+    "code": "PHR-ANIM-A1-0003",
+    "level": "A1",
+    "category": "animals",
+    "english": "I have a cat.",
+    "polish": "Mam kota.",
+    "ukrainian": "У мене є кіт."
+  },
+  {
+    "code": "PHR-ANIM-A1-0004",
+    "english": "The lion is big.",
+    "polish": "Lew jest duży.",
+    "ukrainian": "Лев великий."
+  },
+  {
+    "code": "PHR-ANIM-A1-0005",
+    "english": "The fish can swim.",
+    "polish": "Ryba potrafi pływać.",
+    "ukrainian": "Риба вміє плавати."
+  },
+  {
+    "code": "PHR-ANIM-A1-0006",
+    "english": "The bird can fly.",
+    "polish": "Ptak potrafi latać.",
+    "ukrainian": "Птах вміє літати."
+  },
+  {
+    "code": "PHR-ANIM-A1-0007",
+    "english": "The rabbit is small.",
+    "polish": "Królik jest mały.",
+    "ukrainian": "Кролик маленький."
+  },
+  {
+    "code": "PHR-ANIM-A1-0008",
+    "english": "I like animals.",
+    "polish": "Lubię zwierzęta.",
+    "ukrainian": "Я люблю тварин."
+  }
+]

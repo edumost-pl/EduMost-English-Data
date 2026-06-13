@@ -1,0 +1,103 @@
+
+[
+{
+"code": "VOC-SEASON-A1-0001",
+"level": "A1",
+"category": "seasons",
+"partOfSpeech": "noun",
+"english": "season",
+"polish": "pora roku",
+"ukrainian": "пора року",
+"status": "not-learned"
+},
+{
+"code": "VOC-SEASON-A1-0002",
+"level": "A1",
+"category": "seasons",
+"partOfSpeech": "noun",
+"english": "spring",
+"polish": "wiosna",
+"ukrainian": "весна",
+"status": "not-learned"
+},
+{
+"code": "VOC-SEASON-A1-0003",
+"level": "A1",
+"category": "seasons",
+"partOfSpeech": "noun",
+"english": "summer",
+"polish": "lato",
+"ukrainian": "літо",
+"status": "not-learned"
+},
+{
+"code": "VOC-SEASON-A1-0004",
+"level": "A1",
+"category": "seasons",
+"partOfSpeech": "noun",
+"english": "autumn",
+"polish": "jesień",
+"ukrainian": "осінь",
+"status": "not-learned"
+},
+{
+"code": "VOC-SEASON-A1-0005",
+"level": "A1",
+"category": "seasons",
+"partOfSpeech": "noun",
+"english": "winter",
+"polish": "zima",
+"ukrainian": "зима",
+"status": "not-learned"
+},
+{
+"code": "VOC-SEASON-A1-0006",
+"level": "A1",
+"category": "seasons",
+"partOfSpeech": "noun",
+"english": "holiday",
+"polish": "wakacje",
+"ukrainian": "канікули",
+"status": "not-learned"
+},
+{
+"code": "VOC-SEASON-A1-0007",
+"level": "A1",
+"category": "seasons",
+"partOfSpeech": "noun",
+"english": "vacation",
+"polish": "urlop",
+"ukrainian": "відпустка",
+"status": "not-learned"
+},
+{
+"code": "VOC-SEASON-A1-0008",
+"level": "A1",
+"category": "seasons",
+"partOfSpeech": "noun",
+"english": "sunshine",
+"polish": "słoneczna pogoda",
+"ukrainian": "сонячна погода",
+"status": "not-learned"
+},
+{
+"code": "VOC-SEASON-A1-0009",
+"level": "A1",
+"category": "seasons",
+"partOfSpeech": "noun",
+"english": "snowman",
+"polish": "bałwan",
+"ukrainian": "сніговик",
+"status": "not-learned"
+},
+{
+"code": "VOC-SEASON-A1-0010",
+"level": "A1",
+"category": "seasons",
+"partOfSpeech": "noun",
+"english": "leaf",
+"polish": "liść",
+"ukrainian": "листок",
+"status": "not-learned"
+}
+]

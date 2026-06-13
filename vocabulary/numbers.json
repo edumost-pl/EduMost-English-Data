@@ -1,42 +1,425 @@
 [
   {
-    "code": "VOC-NUM-A1-001",
-    "level": "A1",
-    "category": "numbers",
-    "english": "one",
-    "polish": "jeden",
-    "ukrainian": "один"
-  },
-  {
-    "code": "VOC-NUM-A1-002",
-    "level": "A1",
-    "category": "numbers",
-    "english": "two",
-    "polish": "dwa",
-    "ukrainian": "два"
-  },
-  {
-    "code": "VOC-NUM-A1-003",
-    "level": "A1",
-    "category": "numbers",
-    "english": "three",
-    "polish": "trzy",
-    "ukrainian": "три"
-  },
-  {
-    "code": "VOC-NUM-A1-004",
-    "level": "A1",
-    "category": "numbers",
-    "english": "four",
-    "polish": "cztery",
-    "ukrainian": "чотири"
-  },
-  {
-    "code": "VOC-NUM-A1-005",
-    "level": "A1",
-    "category": "numbers",
-    "english": "five",
-    "polish": "pięć",
-    "ukrainian": "п'ять"
-  }
+"code": "VOC-NUMB-A1-0001",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "zero",
+"polish": "zero",
+"ukrainian": "нуль"
+},
+{
+"code": "VOC-NUMB-A1-0002",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "one",
+"polish": "jeden",
+"ukrainian": "один"
+},
+{
+"code": "VOC-NUMB-A1-0003",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "two",
+"polish": "dwa",
+"ukrainian": "два"
+},
+{
+"code": "VOC-NUMB-A1-0004",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "three",
+"polish": "trzy",
+"ukrainian": "три"
+},
+{
+"code": "VOC-NUMB-A1-0005",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "four",
+"polish": "cztery",
+"ukrainian": "чотири"
+},
+{
+"code": "VOC-NUMB-A1-0006",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "five",
+"polish": "pięć",
+"ukrainian": "п'ять"
+},
+{
+"code": "VOC-NUMB-A1-0007",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "six",
+"polish": "sześć",
+"ukrainian": "шість"
+},
+{
+"code": "VOC-NUMB-A1-0008",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "seven",
+"polish": "siedem",
+"ukrainian": "сім"
+},
+{
+"code": "VOC-NUMB-A1-0009",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "eight",
+"polish": "osiem",
+"ukrainian": "вісім"
+},
+{
+"code": "VOC-NUMB-A1-0010",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "nine",
+"polish": "dziewięć",
+"ukrainian": "дев'ять"
+},
+{
+"code": "VOC-NUMB-A1-0011",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "ten",
+"polish": "dziesięć",
+"ukrainian": "десять"
+},
+{
+"code": "VOC-NUMB-A1-0012",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "eleven",
+"polish": "jedenaście",
+"ukrainian": "одинадцять"
+},
+{
+"code": "VOC-NUMB-A1-0013",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "twelve",
+"polish": "dwanaście",
+"ukrainian": "дванадцять"
+},
+{
+"code": "VOC-NUMB-A1-0014",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "thirteen",
+"polish": "trzynaście",
+"ukrainian": "тринадцять"
+},
+{
+"code": "VOC-NUMB-A1-0015",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "fourteen",
+"polish": "czternaście",
+"ukrainian": "чотирнадцять"
+},
+{
+"code": "VOC-NUMB-A1-0016",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "fifteen",
+"polish": "piętnaście",
+"ukrainian": "п'ятнадцять"
+},
+{
+"code": "VOC-NUMB-A1-0017",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "sixteen",
+"polish": "szesnaście",
+"ukrainian": "шістнадцять"
+},
+{
+"code": "VOC-NUMB-A1-0018",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "seventeen",
+"polish": "siedemnaście",
+"ukrainian": "сімнадцять"
+},
+{
+"code": "VOC-NUMB-A1-0019",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "eighteen",
+"polish": "osiemnaście",
+"ukrainian": "вісімнадцять"
+},
+{
+"code": "VOC-NUMB-A1-0020",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "nineteen",
+"polish": "dziewiętnaście",
+"ukrainian": "дев'ятнадцять"
+},
+{
+"code": "VOC-NUMB-A1-0021",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "twenty",
+"polish": "dwadzieścia",
+"ukrainian": "двадцять"
+},
+{
+"code": "VOC-NUMB-A1-0022",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "thirty",
+"polish": "trzydzieści",
+"ukrainian": "тридцять"
+},
+{
+"code": "VOC-NUMB-A1-0023",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "forty",
+"polish": "czterdzieści",
+"ukrainian": "сорок"
+},
+{
+"code": "VOC-NUMB-A1-0024",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "fifty",
+"polish": "pięćdziesiąt",
+"ukrainian": "п'ятдесят"
+},
+{
+"code": "VOC-NUMB-A1-0025",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "sixty",
+"polish": "sześćdziesiąt",
+"ukrainian": "шістдесят"
+},
+{
+"code": "VOC-NUMB-A1-0026",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "seventy",
+"polish": "siedemdziesiąt",
+"ukrainian": "сімдесят"
+},
+{
+"code": "VOC-NUMB-A1-0027",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "eighty",
+"polish": "osiemdziesiąt",
+"ukrainian": "вісімдесят"
+},
+{
+"code": "VOC-NUMB-A1-0028",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "ninety",
+"polish": "dziewięćdziesiąt",
+"ukrainian": "дев'яносто"
+},
+{
+"code": "VOC-NUMB-A1-0029",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "one hundred",
+"polish": "sto",
+"ukrainian": "сто"
+},
+{
+"code": "VOC-NUMB-A1-0030",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "numeral",
+"english": "one thousand",
+"polish": "tysiąc",
+"ukrainian": "тисяча"
+},
+{
+"code": "VOC-NUMB-A1-0031",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "noun",
+"english": "number",
+"polish": "liczba",
+"ukrainian": "число"
+},
+{
+"code": "VOC-NUMB-A1-0032",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "verb",
+"english": "count",
+"polish": "liczyć",
+"ukrainian": "рахувати"
+},
+{
+"code": "VOC-NUMB-A1-0033",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "noun",
+"english": "plus",
+"polish": "plus",
+"ukrainian": "плюс"
+},
+{
+"code": "VOC-NUMB-A1-0034",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "noun",
+"english": "minus",
+"polish": "minus",
+"ukrainian": "мінус"
+},
+{
+"code": "VOC-NUMB-A1-0035",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "noun",
+"english": "equals",
+"polish": "równa się",
+"ukrainian": "дорівнює"
+},
+{
+"code": "VOC-NUMB-A1-0036",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "noun",
+"english": "more",
+"polish": "więcej",
+"ukrainian": "більше"
+},
+{
+"code": "VOC-NUMB-A1-0037",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "noun",
+"english": "less",
+"polish": "mniej",
+"ukrainian": "менше"
+},
+{
+"code": "VOC-NUMB-A1-0038",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "adjective",
+"english": "first",
+"polish": "pierwszy",
+"ukrainian": "перший"
+},
+{
+"code": "VOC-NUMB-A1-0039",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "adjective",
+"english": "second",
+"polish": "drugi",
+"ukrainian": "другий"
+},
+{
+"code": "VOC-NUMB-A1-0040",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "adjective",
+"english": "third",
+"polish": "trzeci",
+"ukrainian": "третій"
+},
+{
+"code": "VOC-NUMB-A1-0041",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "adjective",
+"english": "last",
+"polish": "ostatni",
+"ukrainian": "останній"
+},
+{
+"code": "VOC-NUMB-A1-0042",
+"level": "A1",
+"category": "numbers",
+"partOfSpeech": "adjective",
+"english": "next",
+"polish": "następny",
+"ukrainian": "наступний"
+},
+{
+  "code": "VOC-NUMB-A1-0043",
+  "level": "A1",
+  "category": "numbers",
+  "partOfSpeech": "noun",
+  "english": "number",
+  "polish": "liczba",
+  "ukrainian": "число"
+},
+{
+  "code": "VOC-NUMB-A1-0044",
+  "level": "A1",
+  "category": "numbers",
+  "partOfSpeech": "verb",
+  "english": "count",
+  "polish": "liczyć",
+  "ukrainian": "рахувати"
+},
+{
+  "code": "VOC-NUMB-A1-0045",
+  "level": "A1",
+  "category": "numbers",
+  "partOfSpeech": "adjective",
+  "english": "first",
+  "polish": "pierwszy",
+  "ukrainian": "перший"
+},
+{
+  "code": "VOC-NUMB-A1-0046",
+  "level": "A1",
+  "category": "numbers",
+  "partOfSpeech": "adjective",
+  "english": "second",
+  "polish": "drugi",
+  "ukrainian": "другий"
+},
+{
+  "code": "VOC-NUMB-A1-0047",
+  "level": "A1",
+  "category": "numbers",
+  "partOfSpeech": "adjective",
+  "english": "third",
+  "polish": "trzeci",
+  "ukrainian": "третій"
+}
 ]

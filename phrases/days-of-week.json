@@ -1,0 +1,139 @@
+
+
+[
+{
+"code": "PHR-DAY-A1-0001",
+"level": "A1",
+"category": "days-of-week",
+"english": "There are seven days in a week.",
+"polish": "W tygodniu jest siedem dni.",
+"ukrainian": "У тижні є сім днів.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0002",
+"level": "A1",
+"category": "days-of-week",
+"english": "Monday is the first school day.",
+"polish": "Poniedziałek jest pierwszym dniem szkoły.",
+"ukrainian": "Понеділок — перший шкільний день.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0003",
+"level": "A1",
+"category": "days-of-week",
+"english": "I have English on Tuesday.",
+"polish": "Mam angielski we wtorek.",
+"ukrainian": "У мене англійська у вівторок.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0004",
+"level": "A1",
+"category": "days-of-week",
+"english": "Wednesday is in the middle of the week.",
+"polish": "Środa jest w środku tygodnia.",
+"ukrainian": "Середа знаходиться посеред тижня.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0005",
+"level": "A1",
+"category": "days-of-week",
+"english": "Thursday comes after Wednesday.",
+"polish": "Czwartek jest po środzie.",
+"ukrainian": "Четвер іде після середи.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0006",
+"level": "A1",
+"category": "days-of-week",
+"english": "Friday is my favourite school day.",
+"polish": "Piątek jest moim ulubionym dniem szkolnym.",
+"ukrainian": "П'ятниця — мій улюблений шкільний день.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0007",
+"level": "A1",
+"category": "days-of-week",
+"english": "Saturday is a weekend day.",
+"polish": "Sobota jest dniem weekendowym.",
+"ukrainian": "Субота — вихідний день.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0008",
+"level": "A1",
+"category": "days-of-week",
+"english": "I relax on Sunday.",
+"polish": "Odpoczywam w niedzielę.",
+"ukrainian": "Я відпочиваю в неділю.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0009",
+"level": "A1",
+"category": "days-of-week",
+"english": "The weekend is fun.",
+"polish": "Weekend jest fajny.",
+"ukrainian": "Вихідні — це весело.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0010",
+"level": "A1",
+"category": "days-of-week",
+"english": "What day is it today?",
+"polish": "Jaki dziś jest dzień?",
+"ukrainian": "Який сьогодні день?",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0011",
+"level": "A1",
+"category": "days-of-week",
+"english": "Today is Monday.",
+"polish": "Dziś jest poniedziałek.",
+"ukrainian": "Сьогодні понеділок.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0012",
+"level": "A1",
+"category": "days-of-week",
+"english": "Tomorrow is Tuesday.",
+"polish": "Jutro jest wtorek.",
+"ukrainian": "Завтра вівторок.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0013",
+"level": "A1",
+"category": "days-of-week",
+"english": "Yesterday was Sunday.",
+"polish": "Wczoraj była niedziela.",
+"ukrainian": "Вчора була неділя.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0014",
+"level": "A1",
+"category": "days-of-week",
+"english": "School is from Monday to Friday.",
+"polish": "Szkoła jest od poniedziałku do piątku.",
+"ukrainian": "Школа триває з понеділка до п'ятниці.",
+"status": "not-learned"
+},
+{
+"code": "PHR-DAY-A1-0015",
+"level": "A1",
+"category": "days-of-week",
+"english": "I know all days of the week.",
+"polish": "Znam wszystkie dni tygodnia.",
+"ukrainian": "Я знаю всі дні тижня.",
+"status": "not-learned"
+}
+]

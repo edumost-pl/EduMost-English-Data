@@ -1,0 +1,182 @@
+[
+{
+"code": "PHR-MONTH-A1-0001",
+"level": "A1",
+"category": "months",
+"english": "There are twelve months in a year.",
+"polish": "W roku jest dwanaście miesięcy.",
+"ukrainian": "У році є дванадцять місяців.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0002",
+"level": "A1",
+"category": "months",
+"english": "My birthday is in January.",
+"polish": "Moje urodziny są w styczniu.",
+"ukrainian": "Мій день народження у січні.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0003",
+"level": "A1",
+"category": "months",
+"english": "February is a winter month.",
+"polish": "Luty jest zimowym miesiącem.",
+"ukrainian": "Лютий — зимовий місяць.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0004",
+"level": "A1",
+"category": "months",
+"english": "March is in spring.",
+"polish": "Marzec jest wiosną.",
+"ukrainian": "Березень належить до весни.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0005",
+"level": "A1",
+"category": "months",
+"english": "April is a spring month.",
+"polish": "Kwiecień jest wiosennym miesiącem.",
+"ukrainian": "Квітень — весняний місяць.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0006",
+"level": "A1",
+"category": "months",
+"english": "May is a beautiful month.",
+"polish": "Maj jest pięknym miesiącem.",
+"ukrainian": "Травень — гарний місяць.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0007",
+"level": "A1",
+"category": "months",
+"english": "June is the first month of summer.",
+"polish": "Czerwiec jest pierwszym miesiącem lata.",
+"ukrainian": "Червень — перший місяць літа.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0008",
+"level": "A1",
+"category": "months",
+"english": "July is usually hot.",
+"polish": "Lipiec jest zwykle gorący.",
+"ukrainian": "Липень зазвичай спекотний.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0009",
+"level": "A1",
+"category": "months",
+"english": "August is a summer month.",
+"polish": "Sierpień jest letnim miesiącem.",
+"ukrainian": "Серпень — літній місяць.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0010",
+"level": "A1",
+"category": "months",
+"english": "School starts in September.",
+"polish": "Szkoła zaczyna się we wrześniu.",
+"ukrainian": "Школа починається у вересні.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0011",
+"level": "A1",
+"category": "months",
+"english": "October is in autumn.",
+"polish": "Październik jest jesienią.",
+"ukrainian": "Жовтень належить до осені.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0012",
+"level": "A1",
+"category": "months",
+"english": "November is often rainy.",
+"polish": "Listopad jest często deszczowy.",
+"ukrainian": "Листопад часто дощовий.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0013",
+"level": "A1",
+"category": "months",
+"english": "December is the last month of the year.",
+"polish": "Grudzień jest ostatnim miesiącem roku.",
+"ukrainian": "Грудень — останній місяць року.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0014",
+"level": "A1",
+"category": "months",
+"english": "What month is it now?",
+"polish": "Jaki jest teraz miesiąc?",
+"ukrainian": "Який зараз місяць?",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0015",
+"level": "A1",
+"category": "months",
+"english": "My favourite month is July.",
+"polish": "Moim ulubionym miesiącem jest lipiec.",
+"ukrainian": "Мій улюблений місяць — липень.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0016",
+"level": "A1",
+"category": "months",
+"english": "There are three months in each season.",
+"polish": "W każdej porze roku są trzy miesiące.",
+"ukrainian": "У кожній порі року є три місяці.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0017",
+"level": "A1",
+"category": "months",
+"english": "January comes after December.",
+"polish": "Styczeń jest po grudniu.",
+"ukrainian": "Січень іде після грудня.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0018",
+"level": "A1",
+"category": "months",
+"english": "June comes before July.",
+"polish": "Czerwiec jest przed lipcem.",
+"ukrainian": "Червень перед липнем.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0019",
+"level": "A1",
+"category": "months",
+"english": "Summer holidays are in July and August.",
+"polish": "Wakacje letnie są w lipcu i sierpniu.",
+"ukrainian": "Літні канікули у липні та серпні.",
+"status": "not-learned"
+},
+{
+"code": "PHR-MONTH-A1-0020",
+"level": "A1",
+"category": "months",
+"english": "I know all twelve months.",
+"polish": "Znam wszystkie dwanaście miesięcy.",
+"ukrainian": "Я знаю всі дванадцять місяців.",
+"status": "not-learned"
+}
+]

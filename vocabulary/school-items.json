@@ -1,0 +1,82 @@
+[
+{
+"code": "PHR-SITEM-A1-0001",
+"level": "A1",
+"category": "school-items",
+"english": "Open your book.",
+"polish": "Otwórz książkę.",
+"ukrainian": "Відкрий книгу."
+},
+{
+"code": "PHR-SITEM-A1-0002",
+"level": "A1",
+"category": "school-items",
+"english": "Close your book.",
+"polish": "Zamknij książkę.",
+"ukrainian": "Закрий книгу."
+},
+{
+"code": "PHR-SITEM-A1-0003",
+"level": "A1",
+"category": "school-items",
+"english": "Take your notebook.",
+"polish": "Weź zeszyt.",
+"ukrainian": "Візьми зошит."
+},
+{
+"code": "PHR-SITEM-A1-0004",
+"level": "A1",
+"category": "school-items",
+"english": "Write your name.",
+"polish": "Napisz swoje imię.",
+"ukrainian": "Напиши своє ім'я."
+},
+{
+"code": "PHR-SITEM-A1-0005",
+"level": "A1",
+"category": "school-items",
+"english": "Read the text.",
+"polish": "Przeczytaj tekst.",
+"ukrainian": "Прочитай текст."
+},
+{
+"code": "PHR-SITEM-A1-0006",
+"level": "A1",
+"category": "school-items",
+"english": "I have a pencil.",
+"polish": "Mam ołówek.",
+"ukrainian": "У мене є олівець."
+},
+{
+"code": "PHR-SITEM-A1-0007",
+"level": "A1",
+"category": "school-items",
+"english": "I have a notebook.",
+"polish": "Mam zeszyt.",
+"ukrainian": "У мене є зошит."
+},
+{
+"code": "PHR-SITEM-A1-0008",
+"level": "A1",
+"category": "school-items",
+"english": "My backpack is blue.",
+"polish": "Mój plecak jest niebieski.",
+"ukrainian": "Мій рюкзак синій."
+},
+{
+"code": "PHR-SITEM-A1-0009",
+"level": "A1",
+"category": "school-items",
+"english": "Pass me the ruler, please.",
+"polish": "Podaj mi linijkę, proszę.",
+"ukrainian": "Передай мені лінійку, будь ласка."
+},
+{
+"code": "PHR-SITEM-A1-0010",
+"level": "A1",
+"category": "school-items",
+"english": "I need an eraser.",
+"polish": "Potrzebuję gumki.",
+"ukrainian": "Мені потрібен ластик."
+}
+]

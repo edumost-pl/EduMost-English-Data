@@ -1,0 +1,123 @@
+[
+{
+"code": "PHR-SCHOOL-A1-0001",
+"level": "A1",
+"category": "school",
+"english": "I go to school.",
+"polish": "Chodzę do szkoły.",
+"ukrainian": "Я ходжу до школи."
+},
+{
+"code": "PHR-SCHOOL-A1-0002",
+"level": "A1",
+"category": "school",
+"english": "I am a student.",
+"polish": "Jestem uczniem.",
+"ukrainian": "Я учень."
+},
+{
+"code": "PHR-SCHOOL-A1-0003",
+"level": "A1",
+"category": "school",
+"english": "This is my teacher.",
+"polish": "To jest mój nauczyciel.",
+"ukrainian": "Це мій вчитель."
+},
+{
+"code": "PHR-SCHOOL-A1-0004",
+"level": "A1",
+"category": "school",
+"english": "This is my classroom.",
+"polish": "To jest moja klasa.",
+"ukrainian": "Це мій клас."
+},
+{
+"code": "PHR-SCHOOL-A1-0005",
+"level": "A1",
+"category": "school",
+"english": "My favourite subject is English.",
+"polish": "Moim ulubionym przedmiotem jest angielski.",
+"ukrainian": "Мій улюблений предмет — англійська мова."
+},
+{
+"code": "PHR-SCHOOL-A1-0006",
+"level": "A1",
+"category": "school",
+"english": "I like math.",
+"polish": "Lubię matematykę.",
+"ukrainian": "Я люблю математику."
+},
+{
+"code": "PHR-SCHOOL-A1-0007",
+"level": "A1",
+"category": "school",
+"english": "I have homework.",
+"polish": "Mam pracę domową.",
+"ukrainian": "У мене є домашнє завдання."
+},
+{
+"code": "PHR-SCHOOL-A1-0008",
+"level": "A1",
+"category": "school",
+"english": "Today I have English.",
+"polish": "Dzisiaj mam angielski.",
+"ukrainian": "Сьогодні у мене англійська."
+},
+{
+"code": "PHR-SCHOOL-A1-0009",
+"level": "A1",
+"category": "school",
+"english": "Today I have math.",
+"polish": "Dzisiaj mam matematykę.",
+"ukrainian": "Сьогодні у мене математика."
+},
+{
+"code": "PHR-SCHOOL-A1-0010",
+"level": "A1",
+"category": "school",
+"english": "I have a test today.",
+"polish": "Mam dziś test.",
+"ukrainian": "Сьогодні у мене тест."
+},
+{
+"code": "PHR-SCHOOL-A1-0011",
+"level": "A1",
+"category": "school",
+"english": "The lesson is interesting.",
+"polish": "Lekcja jest interesująca.",
+"ukrainian": "Урок цікавий."
+},
+{
+"code": "PHR-SCHOOL-A1-0012",
+"level": "A1",
+"category": "school",
+"english": "The lesson is easy.",
+"polish": "Lekcja jest łatwa.",
+"ukrainian": "Урок легкий."
+},
+{
+"code": "PHR-SCHOOL-A1-0013",
+"level": "A1",
+"category": "school",
+"english": "The lesson is difficult.",
+"polish": "Lekcja jest trudna.",
+"ukrainian": "Урок складний."
+},
+{
+"code": "PHR-SCHOOL-A1-0014",
+"level": "A1",
+"category": "school",
+"english": "I learn English at school.",
+"polish": "Uczę się angielskiego w szkole.",
+"ukrainian": "Я вивчаю англійську в школі."
+},
+{
+"code": "PHR-SCHOOL-A1-0015",
+"level": "A1",
+"category": "school",
+"english": "School is fun.",
+"polish": "Szkoła jest fajna.",
+"ukrainian": "Школа — це весело."
+}
+]
+

@@ -1,0 +1,303 @@
+[
+{
+"code": "VOC-ROUTINE-A1-0001",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "wake up",
+"polish": "budzić się",
+"ukrainian": "прокидатися",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0002",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "get up",
+"polish": "wstawać",
+"ukrainian": "вставати",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0003",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "wash",
+"polish": "myć",
+"ukrainian": "мити",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0004",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "brush",
+"polish": "szczotkować",
+"ukrainian": "чистити",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0005",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "dress",
+"polish": "ubierać się",
+"ukrainian": "одягатися",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0006",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "eat",
+"polish": "jeść",
+"ukrainian": "їсти",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0007",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "drink",
+"polish": "pić",
+"ukrainian": "пити",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0008",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "have breakfast",
+"polish": "jeść śniadanie",
+"ukrainian": "снідати",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0009",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "have lunch",
+"polish": "jeść obiad",
+"ukrainian": "обідати",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0010",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "have dinner",
+"polish": "jeść kolację",
+"ukrainian": "вечеряти",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0011",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "go to school",
+"polish": "iść do szkoły",
+"ukrainian": "йти до школи",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0012",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "learn",
+"polish": "uczyć się",
+"ukrainian": "вчитися",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0013",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "read",
+"polish": "czytać",
+"ukrainian": "читати",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0014",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "write",
+"polish": "pisać",
+"ukrainian": "писати",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0015",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "study",
+"polish": "uczyć się",
+"ukrainian": "займатися",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0016",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "play",
+"polish": "bawić się",
+"ukrainian": "гратися",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0017",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "listen",
+"polish": "słuchać",
+"ukrainian": "слухати",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0018",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "watch",
+"polish": "oglądać",
+"ukrainian": "дивитися",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0019",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "help",
+"polish": "pomagać",
+"ukrainian": "допомагати",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0020",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "clean",
+"polish": "sprzątać",
+"ukrainian": "прибирати",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0021",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "do homework",
+"polish": "odrabiać pracę domową",
+"ukrainian": "робити домашнє завдання",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0022",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "go home",
+"polish": "iść do domu",
+"ukrainian": "йти додому",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0023",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "relax",
+"polish": "odpoczywać",
+"ukrainian": "відпочивати",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0024",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "take a shower",
+"polish": "brać prysznic",
+"ukrainian": "приймати душ",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0025",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "take a bath",
+"polish": "brać kąpiel",
+"ukrainian": "приймати ванну",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0026",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "go to bed",
+"polish": "iść spać",
+"ukrainian": "йти спати",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0027",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "verb",
+"english": "sleep",
+"polish": "spać",
+"ukrainian": "спати",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0028",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "adverb",
+"english": "every day",
+"polish": "codziennie",
+"ukrainian": "щодня",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0029",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "noun",
+"english": "morning",
+"polish": "rano",
+"ukrainian": "ранок",
+"status": "not-learned"
+},
+{
+"code": "VOC-ROUTINE-A1-0030",
+"level": "A1",
+"category": "daily-routines",
+"partOfSpeech": "noun",
+"english": "evening",
+"polish": "wieczór",
+"ukrainian": "вечір",
+"status": "not-learned"
+}
+]
+

@@ -1,18 +1,137 @@
 [
-  {
-    "code": "VOC-FEEL-A1-001",
-    "level": "A1",
-    "category": "feelings",
-    "english": "happy",
-    "polish": "szczęśliwy",
-    "ukrainian": "щасливий"
-  },
-  {
-    "code": "VOC-FEEL-A1-002",
-    "level": "A1",
-    "category": "feelings",
-    "english": "sad",
-    "polish": "smutny",
-    "ukrainian": "сумний"
-  }
+{
+"code": "VOC-FEEL-A1-0001",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "happy",
+"polish": "szczęśliwy",
+"ukrainian": "щасливий"
+},
+{
+"code": "VOC-FEEL-A1-0002",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "sad",
+"polish": "smutny",
+"ukrainian": "сумний"
+},
+{
+"code": "VOC-FEEL-A1-0003",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "good",
+"polish": "dobry",
+"ukrainian": "добрий"
+},
+{
+"code": "VOC-FEEL-A1-0004",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "bad",
+"polish": "zły",
+"ukrainian": "поганий"
+},
+{
+"code": "VOC-FEEL-A1-0005",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "fine",
+"polish": "dobrze",
+"ukrainian": "добре"
+},
+{
+"code": "VOC-FEEL-A1-0006",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "great",
+"polish": "świetny",
+"ukrainian": "чудовий"
+},
+{
+"code": "VOC-FEEL-A1-0007",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "tired",
+"polish": "zmęczony",
+"ukrainian": "втомлений"
+},
+{
+"code": "VOC-FEEL-A1-0008",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "excited",
+"polish": "podekscytowany",
+"ukrainian": "схвильований"
+},
+{
+"code": "VOC-FEEL-A1-0009",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "angry",
+"polish": "zły",
+"ukrainian": "сердитий"
+},
+{
+"code": "VOC-FEEL-A1-0010",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "scared",
+"polish": "przestraszony",
+"ukrainian": "наляканий"
+},
+{
+"code": "VOC-FEEL-A1-0011",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "hungry",
+"polish": "głodny",
+"ukrainian": "голодний"
+},
+{
+"code": "VOC-FEEL-A1-0012",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "thirsty",
+"polish": "spragniony",
+"ukrainian": "спраглий"
+},
+{
+"code": "VOC-FEEL-A1-0013",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "sleepy",
+"polish": "senny",
+"ukrainian": "сонний"
+},
+{
+"code": "VOC-FEEL-A1-0014",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "surprised",
+"polish": "zaskoczony",
+"ukrainian": "здивований"
+},
+{
+"code": "VOC-FEEL-A1-0015",
+"level": "A1",
+"category": "feelings",
+"partOfSpeech": "adjective",
+"english": "calm",
+"polish": "spokojny",
+"ukrainian": "спокійний"
+}
 ]

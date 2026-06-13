@@ -1,0 +1,182 @@
+[
+{
+"code": "VOC-FAM-A1-0001",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "family",
+"polish": "rodzina",
+"ukrainian": "родина"
+},
+{
+"code": "VOC-FAM-A1-0002",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "mother",
+"polish": "mama",
+"ukrainian": "мама"
+},
+{
+"code": "VOC-FAM-A1-0003",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "father",
+"polish": "tata",
+"ukrainian": "тато"
+},
+{
+"code": "VOC-FAM-A1-0004",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "parents",
+"polish": "rodzice",
+"ukrainian": "батьки"
+},
+{
+"code": "VOC-FAM-A1-0005",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "brother",
+"polish": "brat",
+"ukrainian": "брат"
+},
+{
+"code": "VOC-FAM-A1-0006",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "sister",
+"polish": "siostra",
+"ukrainian": "сестра"
+},
+{
+"code": "VOC-FAM-A1-0007",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "baby",
+"polish": "niemowlę",
+"ukrainian": "немовля"
+},
+{
+"code": "VOC-FAM-A1-0008",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "grandmother",
+"polish": "babcia",
+"ukrainian": "бабуся"
+},
+{
+"code": "VOC-FAM-A1-0009",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "grandfather",
+"polish": "dziadek",
+"ukrainian": "дідусь"
+},
+{
+"code": "VOC-FAM-A1-0010",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "grandparents",
+"polish": "dziadkowie",
+"ukrainian": "дідусь і бабуся"
+},
+{
+"code": "VOC-FAM-A1-0011",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "uncle",
+"polish": "wujek",
+"ukrainian": "дядько"
+},
+{
+"code": "VOC-FAM-A1-0012",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "aunt",
+"polish": "ciocia",
+"ukrainian": "тітка"
+},
+{
+"code": "VOC-FAM-A1-0013",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "cousin",
+"polish": "kuzyn / kuzynka",
+"ukrainian": "двоюрідний брат / сестра"
+},
+{
+"code": "VOC-FAM-A1-0014",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "son",
+"polish": "syn",
+"ukrainian": "син"
+},
+{
+"code": "VOC-FAM-A1-0015",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "noun",
+"english": "daughter",
+"polish": "córka",
+"ukrainian": "донька"
+},
+{
+"code": "VOC-FAM-A1-0016",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "adjective",
+"english": "big",
+"polish": "duży",
+"ukrainian": "великий"
+},
+{
+"code": "VOC-FAM-A1-0017",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "adjective",
+"english": "small",
+"polish": "mały",
+"ukrainian": "малий"
+},
+{
+"code": "VOC-FAM-A1-0018",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "adjective",
+"english": "older",
+"polish": "starszy",
+"ukrainian": "старший"
+},
+{
+"code": "VOC-FAM-A1-0019",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "adjective",
+"english": "younger",
+"polish": "młodszy",
+"ukrainian": "молодший"
+},
+{
+"code": "VOC-FAM-A1-0020",
+"level": "A1",
+"category": "family",
+"partOfSpeech": "verb",
+"english": "love",
+"polish": "kochać",
+"ukrainian": "любити"
+}
+]

@@ -1,0 +1,318 @@
+[
+{
+"code": "PHR-FURN-A1-0001",
+"level": "A1",
+"category": "furniture",
+"english": "This is my bed.",
+"polish": "To jest moje łóżko.",
+"ukrainian": "Це моє ліжко.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0002",
+"level": "A1",
+"category": "furniture",
+"english": "I sleep in my bed.",
+"polish": "Śpię w swoim łóżku.",
+"ukrainian": "Я сплю у своєму ліжку.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0003",
+"level": "A1",
+"category": "furniture",
+"english": "The book is on the table.",
+"polish": "Książka jest na stole.",
+"ukrainian": "Книга лежить на столі.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0004",
+"level": "A1",
+"category": "furniture",
+"english": "Sit on the chair.",
+"polish": "Usiądź na krześle.",
+"ukrainian": "Сядь на стілець.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0005",
+"level": "A1",
+"category": "furniture",
+"english": "My desk is clean.",
+"polish": "Moje biurko jest czyste.",
+"ukrainian": "Мій письмовий стіл чистий.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0006",
+"level": "A1",
+"category": "furniture",
+"english": "The sofa is big.",
+"polish": "Sofa jest duża.",
+"ukrainian": "Диван великий.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0007",
+"level": "A1",
+"category": "furniture",
+"english": "The cat is on the armchair.",
+"polish": "Kot jest na fotelu.",
+"ukrainian": "Кіт на кріслі.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0008",
+"level": "A1",
+"category": "furniture",
+"english": "My clothes are in the wardrobe.",
+"polish": "Moje ubrania są w szafie.",
+"ukrainian": "Мій одяг у шафі.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0009",
+"level": "A1",
+"category": "furniture",
+"english": "Open the cupboard.",
+"polish": "Otwórz szafkę.",
+"ukrainian": "Відкрий шафку.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0010",
+"level": "A1",
+"category": "furniture",
+"english": "The toy is on the shelf.",
+"polish": "Zabawka jest na półce.",
+"ukrainian": "Іграшка на полиці.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0011",
+"level": "A1",
+"category": "furniture",
+"english": "The books are in the bookcase.",
+"polish": "Książki są w regale.",
+"ukrainian": "Книги в книжковій шафі.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0012",
+"level": "A1",
+"category": "furniture",
+"english": "Open the drawer.",
+"polish": "Otwórz szufladę.",
+"ukrainian": "Відкрий шухляду.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0013",
+"level": "A1",
+"category": "furniture",
+"english": "Turn on the lamp.",
+"polish": "Włącz lampę.",
+"ukrainian": "Увімкни лампу.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0014",
+"level": "A1",
+"category": "furniture",
+"english": "Look in the mirror.",
+"polish": "Spójrz w lustro.",
+"ukrainian": "Подивись у дзеркало.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0015",
+"level": "A1",
+"category": "furniture",
+"english": "The carpet is soft.",
+"polish": "Dywan jest miękki.",
+"ukrainian": "Килим м'який.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0016",
+"level": "A1",
+"category": "furniture",
+"english": "Open the curtain.",
+"polish": "Odsłoń zasłonę.",
+"ukrainian": "Відсунь штору.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0017",
+"level": "A1",
+"category": "furniture",
+"english": "The clock is on the wall.",
+"polish": "Zegar jest na ścianie.",
+"ukrainian": "Годинник на стіні.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0018",
+"level": "A1",
+"category": "furniture",
+"english": "There is a picture on the wall.",
+"polish": "Na ścianie jest obraz.",
+"ukrainian": "На стіні висить картина.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0019",
+"level": "A1",
+"category": "furniture",
+"english": "Water the plant.",
+"polish": "Podlej roślinę.",
+"ukrainian": "Полий рослину.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0020",
+"level": "A1",
+"category": "furniture",
+"english": "We watch television in the living room.",
+"polish": "Oglądamy telewizję w salonie.",
+"ukrainian": "Ми дивимося телевізор у вітальні.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0021",
+"level": "A1",
+"category": "furniture",
+"english": "The TV is on the TV stand.",
+"polish": "Telewizor jest na szafce pod telewizor.",
+"ukrainian": "Телевізор стоїть на тумбі під телевізор.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0022",
+"level": "A1",
+"category": "furniture",
+"english": "My book is on the nightstand.",
+"polish": "Moja książka jest na szafce nocnej.",
+"ukrainian": "Моя книга лежить на приліжковій тумбочці.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0023",
+"level": "A1",
+"category": "furniture",
+"english": "I sleep in a bunk bed.",
+"polish": "Śpię na łóżku piętrowym.",
+"ukrainian": "Я сплю на двоярусному ліжку.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0024",
+"level": "A1",
+"category": "furniture",
+"english": "The toys are in the toy box.",
+"polish": "Zabawki są w skrzyni na zabawki.",
+"ukrainian": "Іграшки лежать у скрині для іграшок.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0025",
+"level": "A1",
+"category": "furniture",
+"english": "Put your head on the pillow.",
+"polish": "Połóż głowę na poduszce.",
+"ukrainian": "Поклади голову на подушку.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0026",
+"level": "A1",
+"category": "furniture",
+"english": "Take a blanket.",
+"polish": "Weź koc.",
+"ukrainian": "Візьми ковдру.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0027",
+"level": "A1",
+"category": "furniture",
+"english": "Turn on the light.",
+"polish": "Włącz światło.",
+"ukrainian": "Увімкни світло.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0028",
+"level": "A1",
+"category": "furniture",
+"english": "Turn off the light.",
+"polish": "Wyłącz światło.",
+"ukrainian": "Вимкни світло.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0029",
+"level": "A1",
+"category": "furniture",
+"english": "Press the light switch.",
+"polish": "Naciśnij włącznik światła.",
+"ukrainian": "Натисни вимикач світла.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0030",
+"level": "A1",
+"category": "furniture",
+"english": "Open the door with the door handle.",
+"polish": "Otwórz drzwi klamką.",
+"ukrainian": "Відчини двері за допомогою ручки.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0031",
+"level": "A1",
+"category": "furniture",
+"english": "Throw it in the bin.",
+"polish": "Wyrzuć to do kosza.",
+"ukrainian": "Викинь це у смітник.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0032",
+"level": "A1",
+"category": "furniture",
+"english": "My room has a sofa.",
+"polish": "W moim pokoju jest sofa.",
+"ukrainian": "У моїй кімнаті є диван.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0033",
+"level": "A1",
+"category": "furniture",
+"english": "The lamp is on the desk.",
+"polish": "Lampa jest na biurku.",
+"ukrainian": "Лампа стоїть на письмовому столі.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0034",
+"level": "A1",
+"category": "furniture",
+"english": "The chair is next to the table.",
+"polish": "Krzesło jest obok stołu.",
+"ukrainian": "Стілець стоїть поруч зі столом.",
+"status": "not-learned"
+},
+{
+"code": "PHR-FURN-A1-0035",
+"level": "A1",
+"category": "furniture",
+"english": "I like my room.",
+"polish": "Lubię swój pokój.",
+"ukrainian": "Мені подобається моя кімната.",
+"status": "not-learned"
+}
+]
+

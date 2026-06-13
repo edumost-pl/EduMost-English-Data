@@ -1,0 +1,351 @@
+[
+    {
+"code": "VOC-FOOD-A1-0053",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "rice",
+"polish": "ryż",
+"ukrainian": "рис"
+},
+{
+"code": "VOC-FOOD-A1-0054",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "pasta",
+"polish": "makaron",
+"ukrainian": "макарони"
+},
+{
+"code": "VOC-FOOD-A1-0055",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "soup",
+"polish": "zupa",
+"ukrainian": "суп"
+},
+{
+"code": "VOC-FOOD-A1-0056",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "salad",
+"polish": "sałatka",
+"ukrainian": "салат"
+},
+{
+"code": "VOC-FOOD-A1-0057",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "meat",
+"polish": "mięso",
+"ukrainian": "м'ясо"
+},
+{
+"code": "VOC-FOOD-A1-0058",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "beef",
+"polish": "wołowina",
+"ukrainian": "яловичина"
+},
+{
+"code": "VOC-FOOD-A1-0059",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "pork",
+"polish": "wieprzowina",
+"ukrainian": "свинина"
+},
+{
+"code": "VOC-FOOD-A1-0060",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "peach",
+"polish": "brzoskwinia",
+"ukrainian": "персик"
+},
+{
+"code": "VOC-FOOD-A1-0061",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "plum",
+"polish": "śliwka",
+"ukrainian": "слива"
+},
+{
+"code": "VOC-FOOD-A1-0062",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "kiwi",
+"polish": "kiwi",
+"ukrainian": "ківі"
+},
+{
+"code": "VOC-FOOD-A1-0063",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "pineapple",
+"polish": "ananas",
+"ukrainian": "ананас"
+},
+{
+"code": "VOC-FOOD-A1-0064",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "pepper",
+"polish": "papryka",
+"ukrainian": "перець"
+},
+{
+"code": "VOC-FOOD-A1-0065",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "garlic",
+"polish": "czosnek",
+"ukrainian": "часник"
+},
+{
+"code": "VOC-FOOD-A1-0066",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "peas",
+"polish": "groszek",
+"ukrainian": "горох"
+},
+{
+"code": "VOC-FOOD-A1-0067",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "beans",
+"polish": "fasola",
+"ukrainian": "квасоля"
+},
+{
+"code": "VOC-FOOD-A1-0068",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "jam",
+"polish": "dżem",
+"ukrainian": "джем"
+},
+{
+"code": "VOC-FOOD-A1-0069",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "honey",
+"polish": "miód",
+"ukrainian": "мед"
+},
+{
+"code": "VOC-FOOD-A1-0070",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "sugar",
+"polish": "cukier",
+"ukrainian": "цукор"
+},
+{
+"code": "VOC-FOOD-A1-0071",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "breakfast table",
+"polish": "stół śniadaniowy",
+"ukrainian": "стіл для сніданку"
+},
+{
+"code": "VOC-FOOD-A1-0072",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "napkin",
+"polish": "serwetka",
+"ukrainian": "серветка"
+},
+{
+"code": "VOC-FOOD-A1-0073",
+"level": "A1",
+"category": "food",
+"partOfSpeech": "noun",
+"english": "bottle",
+"polish": "butelka",
+"ukrainian": "пляшка"
+},
+{
+    "code": "PHR-FOOD-A1-0011",
+    "level": "A1",
+    "category": "food",
+    "english": "I drink water every day.",
+    "polish": "Piję wodę każdego dnia.",
+    "ukrainian": "Я п'ю воду щодня."
+  },
+  {
+    "code": "PHR-FOOD-A1-0012",
+    "level": "A1",
+    "category": "food",
+    "english": "Can I have some water, please?",
+    "polish": "Czy mogę prosić o wodę?",
+    "ukrainian": "Можна мені води, будь ласка?"
+  },
+  {
+    "code": "PHR-FOOD-A1-0013",
+    "level": "A1",
+    "category": "food",
+    "english": "Can I have some juice, please?",
+    "polish": "Czy mogę prosić o sok?",
+    "ukrainian": "Можна мені соку, будь ласка?"
+  },
+  {
+    "code": "PHR-FOOD-A1-0014",
+    "level": "A1",
+    "category": "food",
+    "english": "This apple is sweet.",
+    "polish": "To jabłko jest słodkie.",
+    "ukrainian": "Це яблуко солодке."
+  },
+  {
+    "code": "PHR-FOOD-A1-0015",
+    "level": "A1",
+    "category": "food",
+    "english": "The lemon is sour.",
+    "polish": "Cytryna jest kwaśna.",
+    "ukrainian": "Лимон кислий."
+  },
+  {
+    "code": "PHR-FOOD-A1-0016",
+    "level": "A1",
+    "category": "food",
+    "english": "The soup is hot.",
+    "polish": "Zupa jest gorąca.",
+    "ukrainian": "Суп гарячий."
+  },
+  {
+    "code": "PHR-FOOD-A1-0017",
+    "level": "A1",
+    "category": "food",
+    "english": "The ice cream is cold.",
+    "polish": "Lody są zimne.",
+    "ukrainian": "Морозиво холодне."
+  },
+  {
+    "code": "PHR-FOOD-A1-0018",
+    "level": "A1",
+    "category": "food",
+    "english": "This sandwich is delicious.",
+    "polish": "Ta kanapka jest pyszna.",
+    "ukrainian": "Цей бутерброд дуже смачний."
+  },
+  {
+    "code": "PHR-FOOD-A1-0019",
+    "level": "A1",
+    "category": "food",
+    "english": "I eat a sandwich for lunch.",
+    "polish": "Jem kanapkę na lunch.",
+    "ukrainian": "Я їм бутерброд на обід."
+  },
+  {
+    "code": "PHR-FOOD-A1-0020",
+    "level": "A1",
+    "category": "food",
+    "english": "I drink milk.",
+    "polish": "Piję mleko.",
+    "ukrainian": "Я п'ю молоко."
+  },
+  {
+    "code": "PHR-FOOD-A1-0021",
+    "level": "A1",
+    "category": "food",
+    "english": "Do you like pizza?",
+    "polish": "Czy lubisz pizzę?",
+    "ukrainian": "Ти любиш піцу?"
+  },
+  {
+    "code": "PHR-FOOD-A1-0022",
+    "level": "A1",
+    "category": "food",
+    "english": "Yes, I do.",
+    "polish": "Tak, lubię.",
+    "ukrainian": "Так, люблю."
+  },
+  {
+    "code": "PHR-FOOD-A1-0023",
+    "level": "A1",
+    "category": "food",
+    "english": "No, I don't.",
+    "polish": "Nie, nie lubię.",
+    "ukrainian": "Ні, не люблю."
+  },
+  {
+    "code": "PHR-FOOD-A1-0024",
+    "level": "A1",
+    "category": "food",
+    "english": "What is your favourite food?",
+    "polish": "Jakie jest twoje ulubione jedzenie?",
+    "ukrainian": "Яка твоя улюблена їжа?"
+  },
+  {
+    "code": "PHR-FOOD-A1-0025",
+    "level": "A1",
+    "category": "food",
+    "english": "I would like some cake.",
+    "polish": "Poproszę kawałek ciasta.",
+    "ukrainian": "Я б хотів шматочок торта."
+  },
+  {
+    "code": "PHR-FOOD-A1-0026",
+    "level": "A1",
+    "category": "food",
+    "english": "Please pass me the spoon.",
+    "polish": "Podaj mi proszę łyżkę.",
+    "ukrainian": "Передай мені, будь ласка, ложку."
+  },
+  {
+    "code": "PHR-FOOD-A1-0027",
+    "level": "A1",
+    "category": "food",
+    "english": "Please pass me the fork.",
+    "polish": "Podaj mi proszę widelec.",
+    "ukrainian": "Передай мені, будь ласка, виделку."
+  },
+  {
+    "code": "PHR-FOOD-A1-0028",
+    "level": "A1",
+    "category": "food",
+    "english": "The bottle is on the table.",
+    "polish": "Butelka jest na stole.",
+    "ukrainian": "Пляшка стоїть на столі."
+  },
+  {
+    "code": "PHR-FOOD-A1-0029",
+    "level": "A1",
+    "category": "food",
+    "english": "The glass is empty.",
+    "polish": "Szklanka jest pusta.",
+    "ukrainian": "Склянка порожня."
+  },
+  {
+    "code": "PHR-FOOD-A1-0030",
+    "level": "A1",
+    "category": "food",
+    "english": "The cup is full.",
+    "polish": "Kubek jest pełny.",
+    "ukrainian": "Чашка повна."
+  }
+]

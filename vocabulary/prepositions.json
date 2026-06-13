@@ -1,0 +1,62 @@
+[
+{
+"code": "VOC-PREP-A1-0001",
+"level": "A1",
+"category": "prepositions",
+"partOfSpeech": "preposition",
+"english": "in",
+"polish": "w",
+"ukrainian": "в",
+"status": "not-learned"
+},
+{
+"code": "VOC-PREP-A1-0002",
+"level": "A1",
+"category": "prepositions",
+"partOfSpeech": "preposition",
+"english": "on",
+"polish": "na",
+"ukrainian": "на",
+"status": "not-learned"
+},
+{
+"code": "VOC-PREP-A1-0003",
+"level": "A1",
+"category": "prepositions",
+"partOfSpeech": "preposition",
+"english": "under",
+"polish": "pod",
+"ukrainian": "під",
+"status": "not-learned"
+},
+{
+"code": "VOC-PREP-A1-0004",
+"level": "A1",
+"category": "prepositions",
+"partOfSpeech": "preposition",
+"english": "behind",
+"polish": "za",
+"ukrainian": "за",
+"status": "not-learned"
+},
+{
+"code": "VOC-PREP-A1-0005",
+"level": "A1",
+"category": "prepositions",
+"partOfSpeech": "preposition",
+"english": "between",
+"polish": "między",
+"ukrainian": "між",
+"status": "not-learned"
+},
+{
+"code": "VOC-PREP-A1-0006",
+"level": "A1",
+"category": "prepositions",
+"partOfSpeech": "preposition",
+"english": "next to",
+"polish": "obok",
+"ukrainian": "поруч",
+"status": "not-learned"
+}
+]

@@ -1,10 +1,58 @@
 [
-  {
-    "code": "PHR-AGE-A1-001",
-    "level": "A1",
-    "category": "Age",
-    "english": "How old are you?",
-    "ukrainian": "Скільки тобі років?",
-    "polish": "Ile masz lat?"
-  }
+{
+"code": "PHR-AGE-A1-0001",
+"level": "A1",
+"category": "age",
+"english": "How old are you?",
+"polish": "Ile masz lat?",
+"ukrainian": "Скільки тобі років?"
+},
+{
+"code": "PHR-AGE-A1-0002",
+"level": "A1",
+"category": "age",
+"english": "I am seven years old.",
+"polish": "Mam siedem lat.",
+"ukrainian": "Мені сім років."
+},
+{
+"code": "PHR-AGE-A1-0003",
+"level": "A1",
+"category": "age",
+"english": "I am eight years old.",
+"polish": "Mam osiem lat.",
+"ukrainian": "Мені вісім років."
+},
+{
+"code": "PHR-AGE-A1-0004",
+"level": "A1",
+"category": "age",
+"english": "I am nine years old.",
+"polish": "Mam dziewięć lat.",
+"ukrainian": "Мені дев'ять років."
+},
+{
+"code": "PHR-AGE-A1-0005",
+"level": "A1",
+"category": "age",
+"english": "I am ten years old.",
+"polish": "Mam dziesięć lat.",
+"ukrainian": "Мені десять років."
+},
+{
+"code": "PHR-AGE-A1-0006",
+"level": "A1",
+"category": "age",
+"english": "Today is my birthday.",
+"polish": "Dziś są moje urodziny.",
+"ukrainian": "Сьогодні мій день народження."
+},
+{
+"code": "PHR-AGE-A1-0007",
+"level": "A1",
+"category": "age",
+"english": "Happy birthday!",
+"polish": "Wszystkiego najlepszego!",
+"ukrainian": "З днем народження!"
+}
 ]

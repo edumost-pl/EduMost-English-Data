@@ -1,0 +1,182 @@
+[
+  {
+    "code": "PHR-BODY-A1-0001",
+    "level": "A1",
+    "category": "body",
+    "english": "Touch your nose.",
+    "polish": "Dotknij nosa.",
+    "ukrainian": "Доторкнися до носа.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0002",
+    "level": "A1",
+    "category": "body",
+    "english": "Touch your ears.",
+    "polish": "Dotknij uszu.",
+    "ukrainian": "Доторкнися до вух.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0003",
+    "level": "A1",
+    "category": "body",
+    "english": "Raise your hand.",
+    "polish": "Podnieś rękę.",
+    "ukrainian": "Підніми руку.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0004",
+    "level": "A1",
+    "category": "body",
+    "english": "Raise both hands.",
+    "polish": "Podnieś obie ręce.",
+    "ukrainian": "Підніми обидві руки.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0005",
+    "level": "A1",
+    "category": "body",
+    "english": "Close your eyes.",
+    "polish": "Zamknij oczy.",
+    "ukrainian": "Заплющ очі.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0006",
+    "level": "A1",
+    "category": "body",
+    "english": "Open your eyes.",
+    "polish": "Otwórz oczy.",
+    "ukrainian": "Відкрий очі.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0007",
+    "level": "A1",
+    "category": "body",
+    "english": "I have blue eyes.",
+    "polish": "Mam niebieskie oczy.",
+    "ukrainian": "У мене блакитні очі.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0008",
+    "level": "A1",
+    "category": "body",
+    "english": "I have brown eyes.",
+    "polish": "Mam brązowe oczy.",
+    "ukrainian": "У мене карі очі.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0009",
+    "level": "A1",
+    "category": "body",
+    "english": "My hair is brown.",
+    "polish": "Mam brązowe włosy.",
+    "ukrainian": "У мене коричневе волосся.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0010",
+    "level": "A1",
+    "category": "body",
+    "english": "My hair is black.",
+    "polish": "Mam czarne włosy.",
+    "ukrainian": "У мене чорне волосся.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0011",
+    "level": "A1",
+    "category": "body",
+    "english": "I can clap my hands.",
+    "polish": "Potrafię klaskać.",
+    "ukrainian": "Я вмію плескати в долоні.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0012",
+    "level": "A1",
+    "category": "body",
+    "english": "I can jump on one leg.",
+    "polish": "Potrafię skakać na jednej nodze.",
+    "ukrainian": "Я вмію стрибати на одній нозі.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0013",
+    "level": "A1",
+    "category": "body",
+    "english": "I can run fast.",
+    "polish": "Potrafię szybko biegać.",
+    "ukrainian": "Я вмію швидко бігати.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0014",
+    "level": "A1",
+    "category": "body",
+    "english": "I can walk.",
+    "polish": "Potrafię chodzić.",
+    "ukrainian": "Я вмію ходити.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0015",
+    "level": "A1",
+    "category": "body",
+    "english": "I can smile.",
+    "polish": "Potrafię się uśmiechać.",
+    "ukrainian": "Я вмію посміхатися.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0016",
+    "level": "A1",
+    "category": "body",
+    "english": "I have two hands.",
+    "polish": "Mam dwie ręce.",
+    "ukrainian": "У мене дві руки.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0017",
+    "level": "A1",
+    "category": "body",
+    "english": "I have two legs.",
+    "polish": "Mam dwie nogi.",
+    "ukrainian": "У мене дві ноги.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0018",
+    "level": "A1",
+    "category": "body",
+    "english": "My nose is small.",
+    "polish": "Mój nos jest mały.",
+    "ukrainian": "Мій ніс маленький.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0019",
+    "level": "A1",
+    "category": "body",
+    "english": "My ears are small.",
+    "polish": "Moje uszy są małe.",
+    "ukrainian": "Мої вуха маленькі.",
+    "status": "not-learned"
+  },
+  {
+    "code": "PHR-BODY-A1-0020",
+    "level": "A1",
+    "category": "body",
+    "english": "My heart is strong.",
+    "polish": "Moje serce jest silne.",
+    "ukrainian": "Моє серце сильне.",
+    "status": "not-learned"
+  }
+]
